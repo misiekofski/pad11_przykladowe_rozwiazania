@@ -1,0 +1,1115 @@
+name;company;technology;job;location.city;location.country;salary.low;salary.high;salary.currency;salary;is_senior
+business analyst/senior business analyst;SoftServe;;data analyst;zdalna;B/D;11000.0;21500.0;PLN;;0
+power bi developer / data analyst;Objectivity;;data analyst;zdalna;B/D;14000.0;20000.0;PLN;;0
+junior data analyst;Coinfirm;;data analyst;zdalna;B/D;3100.0;5000.0;PLN;;0
+data analyst;Packhelp;;data analyst;warszawa;POL;13000.0;15000.0;PLN;;0
+data analyst (analityk danych);Alterdata.io sp. z o.o.;;data analyst;zdalna;B/D;12000.0;18000.0;PLN;;0
+junior application consultant;Syncron Sp. z o.o.;;data analyst;zdalna;B/D;5500.0;8300.0;PLN;;0
+junior data analyst;Colliers Poland;;data analyst;warszawa;POL;8500.0;12000.0;PLN;;0
+data business analyst (remote);Mindbox;;data analyst;zdalna;B/D;21000.0;25095.0;PLN;;0
+data analyst - 100% remote;AVENGA;;data analyst;zdalna;B/D;18480.0;21840.0;PLN;;0
+ux researcher;NOVOMATIC Technologies Poland S.A.;;data analyst;zdalna;B/D;10080.0;18970.0;PLN;;0
+data analyst and developer;Schneider Electric;;data analyst;zdalna;B/D;16149.0;24234.0;PLN;;0
+digital marketing business analyst;Elitmind;;data analyst;zdalna;B/D;14000.0;21000.0;PLN;;0
+data analyst;Onelo S.A.;;data analyst;zdalna;B/D;13650.0;23100.0;PLN;;0
+javascript developer;Sigma IT Polska;;data analyst;zdalna;B/D;20000.0;22340.0;PLN;;0
+senior data analyst;Devire;;data analyst;zdalna;B/D;18000.0;24000.0;PLN;;1
+data analyst - ml platform;FLYR Poland sp.z.o.o;;data analyst;kraków;POL;10000.0;16000.0;PLN;;0
+junior data analyst;John Leggy;;data analyst;warszawa;POL;5000.0;7000.0;PLN;;0
+business analyst;Link Group;;data analyst;zdalna;B/D;13440.0;25200.0;PLN;;0
+data analyst;John Leggy;;data analyst;warszawa;POL;7000.0;12000.0;PLN;;0
+product data analyst;Jamf;;data analyst;zdalna;B/D;6500.0;8500.0;PLN;;0
+data analyst;Devire Sp. z o.o.;;data analyst;warszawa;POL;10000.0;20000.0;PLN;;0
+product data analyst;No Fluff Jobs;;data analyst;zdalna;B/D;12000.0;18000.0;PLN;;0
+ui designer;HL Tech;;data analyst;zdalna;B/D;8000.0;11000.0;PLN;;0
+data analyst (private equity);Devire;;data analyst;warszawa;POL;12000.0;18000.0;PLN;;0
+sales development representative;Netguru;;data analyst;zdalna;B/D;5000.0;7600.0;PLN;;0
+data analyst;BlueSoft Sp. z o.o.;;data analyst;zdalna;B/D;15120.0;21840.0;PLN;;0
+senior product designer;Netguru;;data analyst;zdalna;B/D;16800.0;24500.0;PLN;;1
+data analyst;Secret Sauce Partners, Inc.;;data analyst;zdalna;B/D;8799.0;17598.0;PLN;;0
+data engineer;Link Group;;data engineer;zdalna;B/D;19169.0;31150.0;PLN;;0
+data warehouse engineer;Zonda Exchange;;data engineer;zdalna;B/D;17000.0;32000.0;PLN;;0
+lead data engineer  (remote);Mindbox;;data engineer;zdalna;B/D;29400.0;32550.0;PLN;;0
+data engineer;STX Next;;data engineer;zdalna;B/D;16800.0;25200.0;PLN;;0
+azure data engineer with pyspark;Lingaro;;data engineer;zdalna;B/D;26880.0;30240.0;PLN;;0
+data engineer (sql, python, cloud);Alterdata.io sp. z o.o.;;data engineer;zdalna;B/D;14000.0;22000.0;PLN;;0
+remote senior aws data engineer;ClearScale;;data engineer;zdalna;B/D;28000.0;38000.0;PLN;;0
+dwh/big data engineer;Sii Polska;;data engineer;zdalna;B/D;21000.0;26250.0;PLN;;0
+senior data analytics engineer;Coforge;;data engineer;zdalna;B/D;46200.0;46200.0;PLN;;1
+middle/senior data engineer (python);Provectus;;data engineer;zdalna;B/D;10923.0;21847.0;PLN;;0
+senior scala big data engineer;Altimetrik Poland;;data engineer;zdalna;B/D;20000.0;28000.0;PLN;;1
+senior data engineer;Coople;;data engineer;zdalna;B/D;18000.0;33000.0;PLN;;1
+data engineer;GetInData;;data engineer;zdalna;B/D;20160.0;30240.0;PLN;;0
+data engineer;GetInData;;data engineer;zdalna;B/D;20160.0;30240.0;PLN;;0
+data scientist / ml engineer;SpyroSoft;;data engineer;wroclaw;"POL
+ + 4";18480.0;21840.0;PLN;;0
+data engineer;Devire;;data engineer;zdalna;B/D;13440.0;18480.0;PLN;;0
+remote data science engineer;apreel Sp. z o.o.;;data engineer;zdalna;B/D;20160.0;28560.0;PLN;;0
+data engineer;Shiji Poland;;data engineer;zdalna;B/D;15000.0;20000.0;PLN;;0
+data engineer;Sollers Consulting;;data engineer;warszawa;"POL
+ + 8";13000.0;18000.0;PLN;;0
+bi developer / data engineer;Objectivity;;data engineer;zdalna;B/D;17600.0;25000.0;PLN;;0
+data engineer with python;Lingaro;;data engineer;zdalna;B/D;13440.0;20160.0;PLN;;0
+junior data engineer;FOTC;;data engineer;zdalna;B/D;5500.0;7500.0;PLN;;0
+sql data engineer;Onelo S.A.;;data engineer;zdalna;B/D;13650.0;16800.0;PLN;;0
+mid python data engineer;Acaisoft Poland Sp. z.o.o;;data engineer;zdalna;B/D;12000.0;19000.0;PLN;;0
+azure data engineer;Alterdata.io sp. z o.o.;;data engineer;zdalna;B/D;14000.0;22000.0;PLN;;0
+lead operational data engineer;Link Group Sp. z o. o.;;data engineer;zdalna;B/D;30240.0;33600.0;PLN;;0
+senior operational data engineer;Link Group Sp. z o. o.;;data engineer;zdalna;B/D;25200.0;30240.0;PLN;;1
+data engineer;esky.pl S.A.;;data engineer;zdalna;B/D;11000.0;14000.0;PLN;;0
+operational data engineer;Link Group Sp. z o. o.;;data engineer;zdalna;B/D;20160.0;23520.0;PLN;;0
+big data engineer;Allegro;;data engineer;poznań;"POL
+ + 4";12500.0;17000.0;PLN;;0
+senior big data engineer;Allegro;;data engineer;poznań;"POL
+ + 4";16500.0;22500.0;PLN;;1
+data engineer;Surfer;;data engineer;zdalna;B/D;15000.0;30000.0;PLN;;0
+data engineer;Orange Polska;;data engineer;warszawa;POL;9000.0;18000.0;PLN;;0
+etl data engineer-professional;AVENGA;;data engineer;zdalna;B/D;16464.0;16800.0;PLN;;0
+remote big data software engineer;SoftServe;;data engineer;zdalna;B/D;16000.0;24000.0;PLN;;0
+senior data & energy engineer;IIIT;;data engineer;zdalna;B/D;25000.0;34000.0;PLN;;1
+data engineer/ sql developer;CBRE Business Services Organisation;;data engineer;zdalna;B/D;17000.0;23000.0;PLN;;0
+python data engineer;Placeise;;data engineer;kraków;POL;17000.0;21000.0;PLN;;0
+mlops / data science engineer;Volue;;data engineer;gdańsk;POL;18500.0;23500.0;PLN;;0
+regular/senior cloud data engineer;IHS Markit;;data engineer;zdalna;B/D;13000.0;19000.0;PLN;;0
+data engineer - technical leader;Acaisoft Poland Sp. z.o.o;;data engineer;zdalna;B/D;27000.0;35000.0;PLN;;0
+senior/expert data engineer;Acaisoft Poland Sp. z.o.o;;data engineer;zdalna;B/D;20000.0;33000.0;PLN;;1
+data engineer - technical leader;Acaisoft Poland Sp. z.o.o;;data engineer;zdalna;B/D;27000.0;35000.0;PLN;;0
+backend engineer - data platform;Sumo Logic;;data engineer;zdalna;B/D;20000.0;28000.0;PLN;;0
+data engineer;AXA Avanssur SA Spółka Akcyjna Oddział II  Polsce;;data engineer;zdalna;B/D;17000.0;29000.0;PLN;;0
+senior data engineer (data science);BlackSan Technologies;;data engineer;zdalna;B/D;18000.0;26000.0;PLN;;1
+senior big data engineer;Devire;;data engineer;zdalna;B/D;26000.0;32000.0;PLN;;1
+junior data engineer;Business Reporting - Advisory Group (BRAG);;data engineer;zdalna;B/D;7500.0;10000.0;PLN;;0
+data quality engineer;Devire;;data engineer;zdalna;B/D;20000.0;20000.0;PLN;;0
+mid / senior cloud data engineer;Capgemini;;data engineer;krakow;"POL
+ + 4";13000.0;20000.0;PLN;;0
+senior data engineer (data science hub);Allegro;;data engineer;warszawa;"POL
+ + 8";16500.0;22500.0;PLN;;1
+mid data engineer (etl /aws /snowflake);Svitla Systems, Inc.;;data engineer;zdalna;B/D;15292.0;24031.0;PLN;;0
+python engineer (retraining to big data);SoftServe Poland;;data engineer;zdalna;B/D;13000.0;23000.0;PLN;;0
+data engineer-professional;AVENGA;;data engineer;zdalna;B/D;16464.0;16800.0;PLN;;0
+bi data engineer;Link Group;;data engineer;zdalna;B/D;15120.0;18480.0;PLN;;0
+data engineer (data science hub);Allegro;;data engineer;warszawa;"POL
+ + 8";12500.0;17000.0;PLN;;0
+it data engineer;B. Braun Business Services Poland;;data engineer;poznań;"POL
+ + 1";5000.0;7500.0;PLN;;0
+azure data engineer;Onelo S.A.;;data engineer;zdalna;B/D;13650.0;23100.0;PLN;;0
+data engineer;Insight (Division of nexergroup.com);;data engineer;zdalna;B/D;16000.0;26200.0;PLN;;0
+data engineer;Devire;;data engineer;zdalna;B/D;16000.0;20000.0;PLN;;0
+data engineer-senior;AVENGA;;data engineer;zdalna;B/D;18480.0;20160.0;PLN;;0
+data engineer-pofessional;AVENGA;;data engineer;zdalna;B/D;20160.0;21840.0;PLN;;0
+data engineer-pofessional;AVENGA;;data engineer;zdalna;B/D;15960.0;16968.0;PLN;;0
+data engineer-pofessional;AVENGA;;data engineer;zdalna;B/D;13440.0;16800.0;PLN;;0
+data engineer;IIIT;;data engineer;zdalna;B/D;20000.0;30000.0;PLN;;0
+data engineer (blockchain analytics);Ramp Netork;;data engineer;warszawa;"POL
+ + 2";18000.0;24000.0;PLN;;0
+senior scala big data engineer;VirtusLab;;data engineer;zdalna;B/D;21000.0;27000.0;PLN;;1
+remote mid/senior data engineer;Planday;;data engineer;zdalna;B/D;20000.0;30000.0;PLN;;0
+gcp data engineer;GetInData;;data engineer;zdalna;B/D;25200.0;33600.0;PLN;;0
+remote data engineer (mid-level);Propdo;;data engineer;zdalna;B/D;12000.0;15000.0;PLN;;0
+big data engineer with java;Devire Sp. z o.o.;;data engineer;zdalna;B/D;26880.0;31920.0;PLN;;0
+senior data engineer;IIIT;;data engineer;zdalna;B/D;25000.0;34000.0;PLN;;1
+remote data engineer;TantusData;;data engineer;zdalna;B/D;28000.0;40000.0;PLN;;0
+data engineer;Avanade Poland;;data engineer;zdalna;B/D;15120.0;25200.0;PLN;;0
+junior data engineer;kaes;;data engineer;malbork;POL;4000.0;7000.0;PLN;;0
+data engineer;Devire;;data engineer;zdalna;B/D;31920.0;36960.0;PLN;;0
+data & process engineer (chemical eng.);IIIT;;data engineer;zdalna;B/D;25000.0;34000.0;PLN;;0
+azure big data engineer with python;Sii Polska;;data engineer;zdalna;B/D;16800.0;29400.0;PLN;;0
+dwh/big data engineer;Sii Polska;;data engineer;zdalna;B/D;21000.0;26250.0;PLN;;0
+data engineer;dentsu Polska;;data engineer;warszawa;POL;13000.0;16000.0;PLN;;0
+remote data engineer;Mindbox S.A.;;data engineer;zdalna;B/D;23100.0;30450.0;PLN;;0
+data engineer;Avanade Poland;;data engineer;warszawa;POL;15000.0;25000.0;PLN;;0
+data engineer (microsoft);Onelo S.A.;;data engineer;zdalna;B/D;13650.0;17850.0;PLN;;0
+data engineer;Phorest;;data engineer;zdalna;B/D;16773.0;23962.0;PLN;;0
+data engineer;Ringier Axel Springer Tech;;data engineer;zdalna;B/D;10100.0;16900.0;PLN;;0
+scala big data engineer;VirtusLab;;data engineer;zdalna;B/D;15000.0;22000.0;PLN;;0
+software engineer (scala) | big data;Adform Sp. z o.o.;;data engineer;zdalna;B/D;18000.0;21000.0;PLN;;0
+data engineer- junior;AVENGA;;data engineer;zdalna;B/D;13440.0;16800.0;PLN;;0
+remote data engineer;Codahead;;data engineer;zdalna;B/D;13440.0;22008.0;PLN;;0
+data engineer junior;AVENGA;;data engineer;zdalna;B/D;13440.0;16800.0;PLN;;0
+senior data engineer;DATAPAO Kft.;;data engineer;zdalna;B/D;13827.0;22626.0;PLN;;1
+junior data engineer;DATAPAO Kft.;;data engineer;budapest;HUN;7542.0;9427.0;PLN;;0
+senior data engineer;Hearsay;;data engineer;budapest;HUN;12570.0;20112.0;PLN;;1
+data engineer;IncepTech Kft.;;data engineer;budapest;HUN;11313.0;22626.0;PLN;;0
+data engineer;Manuvia Expert Recruitment;;data engineer;budapest;HUN;10056.0;16341.0;PLN;;0
+remote senior data scientist;Silent Eight;;data scientist;zdalna;B/D;21000.0;25500.0;PLN;;0
+data scientist;SKYBLU;;data scientist;zdalna;B/D;10080.0;20160.0;PLN;;0
+data scientist / ml engineer;SpyroSoft;;data scientist;wroclaw;"POL
+ + 4";18480.0;21840.0;PLN;;0
+expert data scientist;ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;;data scientist;zdalna;B/D;10000.0;16000.0;PLN;;0
+senior data scientist;Moneyflo;;data scientist;zdalna;B/D;14377.0;19169.0;PLN;;1
+remote data scientist;AVENGA;;data scientist;zdalna;B/D;15120.0;24360.0;PLN;;0
+remote data science engineer;apreel Sp. z o.o.;;data scientist;zdalna;B/D;20160.0;28560.0;PLN;;0
+senior data scientist;Eork Group;;data scientist;zdalna;B/D;18000.0;25000.0;PLN;;1
+data scientist;Pixel Technology Sp. z o.o.;;data scientist;łódź;POL;8000.0;16000.0;PLN;;0
+senior data scientist / team lead;Link Group;;data scientist;warszawa;"POL
+ + 3";17000.0;19000.0;PLN;;1
+data scientist;ReSpo.Vision;;data scientist;warszawa;POL;13000.0;20000.0;PLN;;0
+junior data scientist;EMPIK S. A.;;data scientist;warszawa;POL;4000.0;8000.0;PLN;;0
+data scientist;Orange Polska;;data scientist;warszawa;POL;9000.0;18000.0;PLN;;0
+remote data scientist;Addepto;;data scientist;zdalna;B/D;16800.0;23520.0;PLN;;0
+remote data scientist;Divante S.A.;;data scientist;zdalna;B/D;13272.0;18648.0;PLN;;0
+senior data scientist nlp;BlackSan Technologies;;data scientist;zdalna;B/D;16000.0;26000.0;PLN;;1
+senior data scientist;Link Group;;data scientist;zdalna;B/D;30240.0;33600.0;PLN;;1
+data scientist;Altimetrik Poland;;data scientist;zdalna;B/D;18000.0;22000.0;PLN;;0
+data scientist;GetInData;;data scientist;zdalna;B/D;20160.0;30240.0;PLN;;0
+senior data scientist;IIIT;;data scientist;zdalna;B/D;20000.0;28000.0;PLN;;1
+junior data scientist;Cenatorium;;data scientist;warszawa;POL;4500.0;6500.0;PLN;;0
+data scientist (mid/senior);Onelo S.A.;;data scientist;zdalna;B/D;13650.0;17850.0;PLN;;0
+lead data scientist;Adform Sp. z o.o.;;data scientist;warszawa;POL;22000.0;30000.0;PLN;;0
+data scientist;Grupa Invicta;;data scientist;sopot;POL;7000.0;12500.0;PLN;;0
+data scientist;Manuvia Expert Recruitment;;data scientist;budapest;HUN;10684.0;13827.0;PLN;;0
+java developer;Cisco;;java;zdalna;B/D;13000.0;23000.0;PLN;;0
+software engineering technical leader;Cisco;;java;zdalna;B/D;17000.0;25000.0;PLN;;0
+java developer;Chargify;;java;zdalna;B/D;10000.0;14000.0;PLN;;0
+remote java developer;Deskset Softare Sp. z o.o.;;java;zdalna;B/D;12000.0;18000.0;PLN;;0
+junior fullstack developer;Enamor International Sp. z o.o.;;java;warszawa;POL;9000.0;18000.0;PLN;;0
+senior/tech lead java developer;Spyrosoft;;java;zdalna;B/D;18480.0;29400.0;PLN;;1
+senior java software engineer (zeropark);Codeise;;java;zdalna;B/D;18400.0;25300.0;PLN;;1
+senior software engineer;Akamai;;java;zdalna;B/D;13750.0;19500.0;PLN;;1
+java engineer;TouK;;java;warszawa;POL;12936.0;22512.0;PLN;;0
+java software engineer (microservices);Crestt;;java;zdalna;B/D;21000.0;31080.0;PLN;;0
+java developer;Nekken;;java;warszawa;POL;6000.0;11000.0;PLN;;0
+java developer (microservices);ConSol Austria Softare GmbH;;java;zdalna;B/D;10080.0;16800.0;PLN;;0
+software engineer, backend (voluum);Codeise;;java;zdalna;B/D;13800.0;18400.0;PLN;;0
+java developer;Poznań Supercomputing and Netorking Center;;java;poznań;POL;9000.0;17000.0;PLN;;0
+senior software engineer backend(voluum);Codeise;;java;zdalna;B/D;18400.0;25300.0;PLN;;1
+java game developer;Evolution;;java;warszawa;POL;19500.0;25760.0;PLN;;0
+remote java engineer;apreel Sp. z o.o.;;java;zdalna;B/D;23520.0;31584.0;PLN;;0
+java developer (service mesh);ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;;java;zdalna;B/D;9000.0;16000.0;PLN;;0
+java developer | fintech;JCommerce Sp z o o;;java;zdalna;B/D;13440.0;21840.0;PLN;;0
+junior java developer;Anya Consultancy Services;;java;zdalna;B/D;8786.0;9984.0;PLN;;0
+paas cloud architect;Silent Eight;;java;zdalna;B/D;28000.0;35000.0;PLN;;0
+senior software developer (full-cycle);Amay GBS;;java;kraków;POL;14000.0;20000.0;PLN;;1
+solution delivery engineer;Amartus Polska Sp. z o.o.;;java;zdalna;B/D;10000.0;16000.0;PLN;;0
+java developer;Citi Service Center;;java;warszawa;POL;10000.0;20000.0;PLN;;0
+lead java developer;Citi Service Center;;java;warszawa;POL;14300.0;28600.0;PLN;;0
+backend developer;Orange Polska;;java;warszawa;POL;9000.0;18000.0;PLN;;0
+java developer;Positive Geeks Sp. z o.o.;;java;zdalna;B/D;17500.0;25000.0;PLN;;0
+java developer;AMSORT Sp. z o.o.;;java;warszawa;POL;10000.0;15000.0;PLN;;0
+senior java engineer;Klika Tech Spółka Z Ograniczoną Odpoiedzialnością;;java;wrocław;"POL
+ + 2";21000.0;29400.0;PLN;;1
+fullstack java developer;Solit SA;;java;zdalna;B/D;14000.0;18000.0;PLN;;0
+software jvm engineer;Ringier Axel Springer Tech;;java;zdalna;B/D;11000.0;21100.0;PLN;;0
+java developer;Przedsiębiorsto Państoe „Porty Lotnicze”;;java;warszawa;POL;11000.0;17000.0;PLN;;0
+team lead software engineer;AUTO1 Group;;java;zdalna;B/D;22000.0;28000.0;PLN;;0
+java engineer;AUTO1 Group;;java;zdalna;B/D;12000.0;17000.0;PLN;;0
+senior java engineer;AUTO1 Group;;java;zdalna;B/D;20000.0;25000.0;PLN;;1
+java developer;Blackbelt Holding Zrt;;java;zdalna;B/D;10056.0;17598.0;PLN;;0
+java fejlesztő;OTP Mobil Kft.;;java;budapest;HUN;8799.0;16341.0;PLN;;0
+java developer;JCommerce Sp z o o;;java;zdalna;B/D;21840.0;23520.0;PLN;;0
+java developer;SquareOne;;java;zdalna;B/D;22000.0;30000.0;PLN;;0
+fullstack developer (java + angular);Devire;;java;warszawa;POL;18480.0;21840.0;PLN;;0
+senior java engineer - 100% remote;AVENGA;;java;zdalna;B/D;25200.0;30240.0;PLN;;1
+remote java developer;People Trust Sp. z o.o.;;java;zdalna;B/D;16800.0;20160.0;PLN;;0
+remote senior java backend developer;Kontomatik Sp. z o.o.;;java;zdalna;B/D;20000.0;26000.0;PLN;;0
+java developer - 100%  remote;AVENGA;;java;zdalna;B/D;16000.0;32000.0;PLN;;0
+junior java developer;Bravura Solutions Polska Sp. z o.o.;;java;zdalna;B/D;7000.0;10000.0;PLN;;0
+remote mid/senior java developer;Espeo Softare;;java;zdalna;B/D;11880.0;23760.0;PLN;;0
+java/kotlin developer;Kinguin Poland Sp. z o. o.;;java;zdalna;B/D;12000.0;18000.0;PLN;;0
+java developer;Devire;;java;zdalna;B/D;16800.0;25200.0;PLN;;0
+java software developer;IN Team;;java;zdalna;B/D;18480.0;26880.0;PLN;;0
+junior java developer;DPDgroup IT Solutions Hungary Kft;;java;budapest;HUN;5656.0;6285.0;PLN;;0
+java developer;CrustLab;;java;zdalna;B/D;12500.0;24000.0;PLN;;0
+java software architect;Freeport Metrics;;java;warszawa;POL;30240.0;36960.0;PLN;;0
+java developer;FIS Techlology Services (Poland) Sp. z o.o.;;java;wroclaw;POL;16000.0;18000.0;PLN;;0
+remote lead backend java developer;Softengi;;java;zdalna;B/D;20973.0;27527.0;PLN;;0
+senior java developer;Clurgo Sp. z o.o.;;java;zdalna;B/D;18480.0;25200.0;PLN;;1
+remote solution architect (java/kotlin);One Company;;java;zdalna;B/D;21800.0;27400.0;PLN;;0
+software engineering manager;Trade Ledger;;java;zdalna;B/D;30000.0;35000.0;PLN;;0
+java developer;Devire;;java;zdalna;B/D;18480.0;24360.0;PLN;;0
+senior java developer;AVENGA;;java;zdalna;B/D;30240.0;36960.0;PLN;;1
+java tech lead;A4BEE Sp. z o.o.;;java;zdalna;B/D;20000.0;32000.0;PLN;;0
+java engineer;Grid Dynamics;;java;zdalna;B/D;16000.0;25000.0;PLN;;0
+software engineer / ab tester;System Verification;;java;zdalna;B/D;20000.0;30000.0;PLN;;0
+senior java engineer;EPAM;;java;zdalna;B/D;12000.0;18000.0;PLN;;1
+senior java software developer;Volvo Group;;java;wrocław;POL;15000.0;20500.0;PLN;;1
+software engineer;HARMAN Connected Services;;java;łódź;POL;9800.0;14900.0;PLN;;0
+senior software engineer;HARMAN Connected Services;;java;łódź;POL;12000.0;24000.0;PLN;;1
+java engineer (mid/senior);Emerge Soft Sp. z o.o.;;java;zdalna;B/D;19000.0;26000.0;PLN;;0
+java fullstack developer;Syncron Sp. z o.o.;;java;zdalna;B/D;13300.0;23000.0;PLN;;0
+mid/senior java backend engineer;Syncron Sp. z o.o.;;java;zdalna;B/D;13300.0;23000.0;PLN;;0
+principal java algorithm engineer;Syncron Sp. z o.o.;;java;zdalna;B/D;19300.0;28200.0;PLN;;0
+junior java developer;Inteca;;java;wrocław;POL;5000.0;8000.0;PLN;;0
+junior fullstack java developer;InfiniteProgress;;java;wrocław;POL;5000.0;10000.0;PLN;;0
+junior java developer;Exorigo-Upos;;java;zdalna;B/D;8000.0;10000.0;PLN;;0
+java developer (mid/senior);Amusys Production Sp. z o.o.;;java;zdalna;B/D;14000.0;22000.0;PLN;;0
+java developer (mid/senior);Amusys Production Sp. z o.o.;;java;zdalna;B/D;14000.0;20000.0;PLN;;0
+java developer;Flexion Mobile Plc Magyarországi Fióktelepe;;java;zdalna;B/D;7542.0;15084.0;PLN;;0
+fullstack developer (java/react);A4BEE Sp. z o.o.;;java;zdalna;B/D;10000.0;18000.0;PLN;;0
+java developer;Onelo S.A.;;java;zdalna;B/D;16800.0;25200.0;PLN;;0
+senior fullstack java engineer;AVENGA;;java;zdalna;B/D;25200.0;28560.0;PLN;;1
+fullstack java mobile developer;Eternis Sp. z o.o. Sp. k.;;java;wrocław;POL;14000.0;20000.0;PLN;;0
+senior java developer;Codibly;;java;zdalna;B/D;18816.0;26880.0;PLN;;1
+junior software developer;OVOO;;java;kraków;"POL
+ + 1";4000.0;7000.0;PLN;;0
+remote java developer;DXC Technology;;java;zdalna;B/D;13000.0;18000.0;PLN;;0
+remote java developer;AVENGA;;java;zdalna;B/D;18480.0;26040.0;PLN;;0
+java software engineer;Motorola Solutions Systems Polska Sp. z o.o.;;java;kraków;POL;8000.0;15000.0;PLN;;0
+mid java developer;Acaisoft Poland Sp. z o.o.;;java;zdalna;B/D;13000.0;25000.0;PLN;;0
+mid/sr java backend engineer with aws;Syncron Sp. z o.o.;;java;zdalna;B/D;13300.0;23000.0;PLN;;0
+java software engineer;Viercode;;java;zdalna;B/D;12000.0;18000.0;PLN;;0
+java developer;Itransition;;java;zdalna;B/D;10000.0;20000.0;PLN;;0
+java developer (remote);IN Team;;java;zdalna;B/D;11760.0;18480.0;PLN;;0
+fullstack developer (java, react);Link Group;;java;zdalna;B/D;13000.0;21000.0;PLN;;0
+senior quality assurance engineer;Orca AG;;java;zurich;CHE;31260.0;42982.0;PLN;;1
+junior java developer;Codibly;;java;kraków;POL;6888.0;11760.0;PLN;;0
+senior java engineer;Link Group;;java;gdańsk;"POL
+ + 3";15000.0;21000.0;PLN;;1
+remote java engineer;KAFT;;java;zdalna;B/D;20160.0;24360.0;PLN;;0
+market risk python/java developer;IDBC Creative Solutions Kft.;;java;budapest;HUN;8799.0;13827.0;PLN;;0
+senior fullstack developer;Orca AG;;java;zurich;CHE;31260.0;42982.0;PLN;;1
+full stack java developer;OakFusion;;java;zdalna;B/D;15000.0;25000.0;PLN;;0
+mid/senior java developer;Dynamic Solutions;;java;debrecen;HUN;22512.0;32088.0;PLN;;0
+remote java developer;EXATEL S.A.;;java;zdalna;B/D;12000.0;17000.0;PLN;;0
+java developer (mid/senior);BCF Softare Sp. z o. o.;;java;zdalna;B/D;11760.0;20160.0;PLN;;0
+java developer;Clurgo Sp. z o.o.;;java;zdalna;B/D;12600.0;18480.0;PLN;;0
+java developer;Clurgo Sp. z o.o.;;java;zdalna;B/D;14280.0;19320.0;PLN;;0
+junior java developer;KRUK S.A.;;java;zdalna;B/D;6000.0;8000.0;PLN;;0
+junior java developer;PRIMIGENIUS;;java;bydgoszcz;POL;3000.0;6000.0;PLN;;0
+junior java/html developer (remote);Exorigo-Upos;;java;zdalna;B/D;8000.0;10000.0;PLN;;0
+junior java developer;Viercode;;java;zdalna;B/D;7000.0;12000.0;PLN;;0
+remote fullstack java engineer;Link Group Sp. z o. o.;;java;zdalna;B/D;25200.0;28560.0;PLN;;0
+remote senior java developer;Link Group;;java;zdalna;B/D;25200.0;31920.0;PLN;;0
+senior java engineer;AVENGA;;java;zdalna;B/D;25200.0;31080.0;PLN;;1
+java developer;Devire Sp. z o.o.;;java;zdalna;B/D;19000.0;22000.0;PLN;;0
+programista java;BMS;;java;wrocław;POL;10000.0;14000.0;PLN;;0
+java developer;BMS;;java;warszawa;"POL
+ + 3";10000.0;16000.0;PLN;;0
+senior software engineer java;Qurate Retail Group Global Business Services sp. z o.o.;;java;zdalna;B/D;17000.0;23000.0;PLN;;1
+remote senior backend developer;Diet and Wellness;;java;zdalna;B/D;24000.0;30000.0;PLN;;0
+senior software engineer (java) - remote;Guideire Softare;;java;zdalna;B/D;15000.0;22000.0;PLN;;1
+java developer;Ideasol Magyarország Kft;;java;budapest;HUN;11313.0;20112.0;PLN;;0
+fullstack java developer;AVENGA;;java;zdalna;B/D;30240.0;35280.0;PLN;;0
+java developer (junior - mid -senior);PayU;;java;poznań;POL;10000.0;16000.0;PLN;;0
+java software developer;RMEDISON SP Z O.O.;;java;zdalna;B/D;16800.0;30240.0;PLN;;0
+senior java engineer;GlobalLogic;;java;zdalna;B/D;16000.0;20000.0;PLN;;1
+atlassian developer;Itransition;;java;zdalna;B/D;10000.0;20000.0;PLN;;0
+mid/senior java developer;ERGO Technology & Services;;java;warszawa;POL;15000.0;24000.0;PLN;;0
+java developer;Devire;;java;zdalna;B/D;20160.0;25200.0;PLN;;0
+senior software engineer, devex;SmartRecruiters Inc.;;java;zdalna;B/D;22000.0;24000.0;PLN;;1
+junior java developer;TouK;;java;warszawa;POL;5500.0;8400.0;PLN;;0
+java developer (100% remote);PGS Softare S.A.;;java;zdalna;B/D;11000.0;19000.0;PLN;;0
+senior/principal java developer;PGS Softare S.A.;;java;zdalna;B/D;15000.0;25000.0;PLN;;1
+full stack senior java developer;Sky and Space Co;;java;zdalna;B/D;18000.0;24000.0;PLN;;0
+full stack java developer;Sky and Space Co;;java;zdalna;B/D;16000.0;18000.0;PLN;;0
+java developer;Alvicom Kft.;;java;budapest;HUN;9427.0;18855.0;PLN;;0
+sr backend software engineer;Bound;;java;zdalna;B/D;33324.0;47605.0;PLN;;0
+java developer;Contina Sp. z o.o.;;java;zdalna;B/D;7000.0;12000.0;PLN;;0
+java developer (with aws);ASTEK Polska;;java;zdalna;B/D;21000.0;28350.0;PLN;;0
+junior java developer;Softarely;;java;warszawa;POL;14700.0;18480.0;PLN;;0
+junior salesforce/fullstack developer;Enxoo;;java;zdalna;B/D;4500.0;8500.0;PLN;;0
+managed services developer;Enxoo;;java;zdalna;B/D;4500.0;8500.0;PLN;;0
+junior java/groovy developer;ProData Consult;;java;warszawa;POL;10080.0;16800.0;PLN;;0
+junior java developer;Decerto Sp. z o.o.;;java;zdalna;B/D;7560.0;11760.0;PLN;;0
+junior java developer (remote);Si e-commerce;;java;zdalna;B/D;5400.0;7200.0;PLN;;0
+java trainee;HARMAN Connected Services;;java;łódź;POL;4000.0;4000.0;PLN;;0
+java developer;Devqube;;java;zdalna;B/D;23520.0;26040.0;PLN;;0
+senior java engineer;VirtusLab;;java;zdalna;B/D;21000.0;27000.0;PLN;;1
+remote mid java developer;People Trust Sp. z o.o.;;java;zdalna;B/D;13440.0;16800.0;PLN;;0
+java developer | marketing automation;JCommerce Sp z o o;;java;zdalna;B/D;15120.0;21840.0;PLN;;0
+senior java developer | microservices;JCommerce Sp z o o;;java;zdalna;B/D;15120.0;21840.0;PLN;;1
+senior fullstack java engineer;SaldeoSMART;;java;kraków;POL;22000.0;27000.0;PLN;;1
+java fullstack developer;SaldeoSMART;;java;kraków;POL;12000.0;17000.0;PLN;;0
+junior java developer;Decerto Sp. z o.o.;;java;zdalna;B/D;7500.0;10000.0;PLN;;0
+software engineer intern (java);Wunderman Thompson Technology;;java;bydgoszcz;POL;4500.0;5400.0;PLN;;0
+staff java engineer, orchestrator;VMare;;java;zdalna;B/D;23000.0;30000.0;PLN;;0
+java developer;Toro Performance;;java;zdalna;B/D;11000.0;22000.0;PLN;;0
+senior java developer;Netguru S.A.;;java;zdalna;B/D;18000.0;27000.0;PLN;;1
+java developer;NVT Sp. z o.o.;;java;zdalna;B/D;10000.0;14000.0;PLN;;0
+remote fullstack java developer;AVENGA;;java;zdalna;B/D;23520.0;25200.0;PLN;;0
+senior java engineer, horizon cloud;VMare;;java;zdalna;B/D;15000.0;30000.0;PLN;;1
+java developer;Transpose Kft;;java;zdalna;B/D;11313.0;15084.0;PLN;;0
+junior java developer;Storare Sp. z o.o.;;java;warszawa;"POL
+ + 1";5000.0;7000.0;PLN;;0
+junior java developer;Storare Sp. z o.o.;;java;warszawa;"POL
+ + 1";5000.0;7000.0;PLN;;0
+junior java backend developer;Datalizard Polska Sp. z o.o.;;java;wrocław;POL;5000.0;8000.0;PLN;;0
+java/software integration enginner;Unity Group;;java;zdalna;B/D;6720.0;11760.0;PLN;;0
+remote java developer;Striped Giraffe Innovation & Strategy Polska;;java;zdalna;B/D;18000.0;22000.0;PLN;;0
+java developer remote;Devire Sp. z o.o.;;java;zdalna;B/D;31000.0;35000.0;PLN;;0
+senior java developer;Acaisoft Poland Sp. z o.o.;;java;zdalna;B/D;19000.0;25000.0;PLN;;1
+big data engineer with java;Devire Sp. z o.o.;;java;zdalna;B/D;26880.0;31920.0;PLN;;0
+associate software engineer;Syncron Sp. z o.o.;;java;zdalna;B/D;7500.0;11500.0;PLN;;0
+java developer;Rumble Fish Poland Sp. z o.o.;;java;kraków;POL;12000.0;23000.0;PLN;;0
+java developer (junior/mid);Eversis sp. z o.o.;;java;zdalna;B/D;15000.0;17000.0;PLN;;0
+java developer;Qurate Retail Group Global Business Services sp. z o.o.;;java;zdalna;B/D;13000.0;17000.0;PLN;;0
+java developer;Fox and Wolf HR Solutions;;java;budapest;HUN;10056.0;15084.0;PLN;;0
+remote java developer;Devire Sp. z o.o.;;java;zdalna;B/D;26880.0;31920.0;PLN;;0
+senior software integration engineer;Unity Group;;java;zdalna;B/D;18480.0;25200.0;PLN;;1
+java developer;Unity Group;;java;zdalna;B/D;13440.0;25200.0;PLN;;0
+software integration engineer;Unity Group;;java;zdalna;B/D;11760.0;18480.0;PLN;;0
+java developer;YND Technologies;;java;zdalna;B/D;22000.0;27000.0;PLN;;0
+junior java developer;ALTEN Polska;;java;zdalna;B/D;9600.0;11000.0;PLN;;0
+junior java developer;Horus Sp. z o.o.;;java;warszawa;POL;5000.0;9000.0;PLN;;0
+junior java developer;Horus Sp. z o.o.;;java;warszawa;POL;5000.0;9000.0;PLN;;0
+java developer;Codibly;;java;zdalna;B/D;11760.0;16800.0;PLN;;0
+remote senior java developer;Winged IT;;java;zdalna;B/D;25000.0;29000.0;PLN;;0
+senior backend software engineer;SmartRecruiters Inc.;;java;zdalna;B/D;18000.0;23000.0;PLN;;1
+backend software engineer;SmartRecruiters Inc.;;java;zdalna;B/D;14000.0;17000.0;PLN;;0
+junior fullstack developer;BeOne Sp. z o.o.;;java;poznań;POL;5000.0;8000.0;PLN;;0
+senior java developer;HL Tech;;java;zdalna;B/D;19500.0;28500.0;PLN;;1
+java developer;HL Tech;;java;warszawa;POL;11000.0;16000.0;PLN;;0
+junior java developer;HL Tech;;java;warszawa;POL;6000.0;8000.0;PLN;;0
+java developer;Liki Mobile Solutions;;java;zdalna;B/D;13000.0;18000.0;PLN;;0
+junior java developer;PySENSE Sp. z o.o.;;java;warszawa;"POL
+ + 1";4000.0;7000.0;PLN;;0
+junior java developer;Coinfirm;;java;zdalna;B/D;7000.0;12000.0;PLN;;0
+senior java developer;Sii Polska;;java;zdalna;B/D;21000.0;25200.0;PLN;;1
+remote java developer;Codelab;;java;zdalna;B/D;11000.0;19000.0;PLN;;0
+remote java developer;Hyland;;java;zdalna;B/D;14000.0;24000.0;PLN;;0
+remote java developer;Vstorm;;java;zdalna;B/D;13000.0;26000.0;PLN;;0
+remote senior backend developer;Sparkbit spółka z o.o.;;java;zdalna;B/D;17600.0;24000.0;PLN;;0
+java engineer;VirtusLab;;java;zdalna;B/D;15000.0;22000.0;PLN;;0
+senior java developer (b2b);Netcompany;;java;warszawa;POL;14000.0;20000.0;PLN;;1
+junior/mid java developer;IHS Markit;;java;zdalna;B/D;10000.0;14000.0;PLN;;0
+senior java developer;IHS Markit;;java;zdalna;B/D;14000.0;19000.0;PLN;;1
+remote java engineer;Infor Polska;;java;zdalna;B/D;14000.0;19000.0;PLN;;0
+java developer;Britenet;;java;zdalna;B/D;18000.0;23000.0;PLN;;0
+java developer;Britenet;;java;zdalna;B/D;18000.0;22000.0;PLN;;0
+senior java developer;Britenet;;java;zdalna;B/D;18000.0;23500.0;PLN;;1
+mid java developer;Acaisoft Poland Sp. z o.o.;;java;zdalna;B/D;12000.0;19000.0;PLN;;0
+remote java engineer (e-commerce);apreel Sp. z o.o.;;java;zdalna;B/D;23520.0;31584.0;PLN;;0
+senior java developer;Britenet;;java;zdalna;B/D;23000.0;27000.0;PLN;;1
+remote senior java fullstack developer;Aurelis Consulting;;java;zdalna;B/D;25000.0;32000.0;PLN;;0
+java developer;Sygnity;;java;zdalna;B/D;25200.0;30240.0;PLN;;0
+java developer;Sensi Labs Sp. z o.o.;;java;zdalna;B/D;17000.0;25000.0;PLN;;0
+młodszy programista java – staż;PSI Polska;;java;poznań;POL;3360.0;4200.0;PLN;;0
+junior software developer;GRIP Softare Solutions;;java;zdalna;B/D;6000.0;10000.0;PLN;;0
+junior software engineer (java);Wunderman Thompson Technology;;java;zdalna;B/D;6000.0;8000.0;PLN;;0
+junior iot specialist (java&js);Transition Technologies PSC Sp. z o.o;;java;zdalna;B/D;3200.0;5000.0;PLN;;0
+junior software engineer (java);Wunderman Thompson Technology;;java;zdalna;B/D;6000.0;8000.0;PLN;;0
+remote junior java developer;DahliaMatic;;java;zdalna;B/D;6000.0;11000.0;PLN;;0
+junior java developer;SmartBear;;java;wrocław;POL;7000.0;10000.0;PLN;;0
+junior software engineer (r&d);EXATEL S.A.;;java;zdalna;B/D;5000.0;8000.0;PLN;;0
+remote junior java developer;Channels;;java;zdalna;B/D;6000.0;9000.0;PLN;;0
+junior java developer;Netcompany;;java;warszawa;POL;7000.0;8000.0;PLN;;0
+graduate / junior java developer hybrid;HERE Technologies;;java;kraków;POL;6583.0;12500.0;PLN;;0
+fullstack java developer;itertatec sp. z o.o.;;java;wrocław;POL;7000.0;14000.0;PLN;;0
+junior java developer;FIS Techlology Services (Poland) Sp. z o.o.;;java;warszawa;POL;7000.0;10000.0;PLN;;0
+big data developer;Britenet;;java;zdalna;B/D;10080.0;13440.0;PLN;;0
+młodszy programista java -zdalnie;Exorigo-Upos;;java;zdalna;B/D;7000.0;10000.0;PLN;;0
+remote junior java developer;Globema Sp. z o.o.;;java;zdalna;B/D;7000.0;9000.0;PLN;;0
+remote gis software developer;Globema Sp. z o.o.;;java;zdalna;B/D;7000.0;10000.0;PLN;;0
+java developer;AUTENTI;;java;kraków;POL;12000.0;22000.0;PLN;;0
+tester it;Aplikacje Krytyczne;;java;zdalna;B/D;5000.0;8000.0;PLN;;0
+junior functional tester;Sopra Steria - Apps Services;;java;katowice;POL;8400.0;11760.0;PLN;;0
+it test manager;ProData Consult;;java;gdynia;"POL
+ + 1";16800.0;20160.0;PLN;;0
+senior sre manager;Guideire Softare;;java;kraków;POL;22000.0;29000.0;PLN;;1
+application test engineer;COMP S.A.;;java;zdalna;B/D;10000.0;13000.0;PLN;;0
+junior software qa engineer with java;Codibly;;java;zdalna;B/D;11760.0;15120.0;PLN;;0
+qa automation engineer;Railaymen Sp. z o.o.;;java;zdalna;B/D;9000.0;15000.0;PLN;;0
+test automation engineer;ALTEN Polska;;java;zdalna;B/D;15120.0;17500.0;PLN;;0
+software engineer;Sages;;java;warszawa;POL;7000.0;11000.0;PLN;;0
+lead qa engineer;Cisco;;java;zdalna;B/D;16000.0;26000.0;PLN;;0
+remote devops engineer;telXira GmbH;;java;zdalna;B/D;20000.0;25000.0;PLN;;0
+remote qa engineer;DataArt Wrocla Sp. z o.o.;;java;zdalna;B/D;12000.0;18000.0;PLN;;0
+remote qaa engineer;DataArt Wrocla Sp. z o.o.;;java;zdalna;B/D;16000.0;23000.0;PLN;;0
+remote test automation engineer;DahliaMatic Sp. z o.o.;;java;zdalna;B/D;17000.0;33000.0;PLN;;0
+test software engineer;HARMAN Connected Services;;java;łódź;POL;9800.0;14900.0;PLN;;0
+java automation tester - branża bankowa;Sii Polska;;java;zdalna;B/D;15750.0;23100.0;PLN;;0
+remote devops engineer;Ulyssys Kft;;java;zdalna;B/D;13827.0;18855.0;PLN;;0
+java test developer;Sii Polska;;java;zdalna;B/D;12600.0;23100.0;PLN;;0
+devops fejlesztő;Blackbelt Holding Zrt;;java;zdalna;B/D;11313.0;18855.0;PLN;;0
+test automation engineer (lte/5g);Link Group;;java;zdalna;B/D;13500.0;16800.0;PLN;;0
+java test automation engineer;Solit;;java;zdalna;B/D;12600.0;16000.0;PLN;;0
+devops engineer;Aareson;;java;warszawa;POL;18000.0;22000.0;PLN;;0
+devops engineer;AVENGA;;java;zdalna;B/D;26880.0;33600.0;PLN;;0
+quality assurance engineer;NetorkedAssets Sp. z o.o.;;java;zdalna;B/D;10000.0;17000.0;PLN;;0
+senior devops engineer;ADVA;;java;gdynia;"POL
+ + 2";14000.0;20000.0;PLN;;1
+qa automation tester with java - remote;Ideamotive;;java;zdalna;B/D;18000.0;20000.0;PLN;;0
+test automation engineer;Citi Service Center;;java;warszawa;POL;10000.0;20000.0;PLN;;0
+remote / test automation engineer;Link Group;;java;zdalna;B/D;16000.0;21000.0;PLN;;0
+senior quality assurance engineer;IDEMIA;;java;zdalna;B/D;15960.0;23940.0;PLN;;1
+devops engineer;Infolet Sp. z o.o;;java;kraków;POL;20160.0;25200.0;PLN;;0
+remote qa engineer;ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;;java;zdalna;B/D;7500.0;15000.0;PLN;;0
+test automation engineer;SquareOne;;java;zdalna;B/D;18480.0;21840.0;PLN;;0
+qa team leader;Coinfirm;;java;zdalna;B/D;18000.0;25000.0;PLN;;0
+test automation engineer (regular);ProData Consult;;java;zdalna;B/D;18480.0;23520.0;PLN;;0
+mid test automation engineer;Acaisoft Poland Sp. z.o.o;;java;zdalna;B/D;11000.0;18000.0;PLN;;0
+quality assurance engineer;Grid Dynamics;;java;zdalna;B/D;12000.0;20500.0;PLN;;0
+software test analyst;FIS Techlology Services (Poland) Sp. z o.o.;;java;warszawa;POL;7000.0;10000.0;PLN;;0
+lead test automation engineer;EPAM;;java;zdalna;B/D;14000.0;20500.0;PLN;;0
+senior test automation engineer;EPAM;;java;zdalna;B/D;11500.0;17500.0;PLN;;1
+senior qa engineer;AUTO1 Group;;java;zdalna;B/D;15000.0;19000.0;PLN;;1
+software test analyst;FIS Techlology Services (Poland) Sp. z o.o.;;java;warszawa;POL;10000.0;12000.0;PLN;;0
+mid backend java developer;Volksagen Group Services Kft.;;java;zdalna;B/D;10056.0;12570.0;PLN;;0
+manuális tesztelő_zr_3693_job;IDBC Creative Solutions Kft.;;java;zdalna;B/D;13188.0;15834.0;PLN;;0
+test engineer;Ringier Axel Springer Tech;;java;zdalna;B/D;10000.0;14500.0;PLN;;0
+remote mid/senior web qa engineer;Capco;;java;zdalna;B/D;15120.0;24360.0;PLN;;0
+java qa engineer - 100% remote;AVENGA;;java;zdalna;B/D;16800.0;18480.0;PLN;;0
+test automation engineer / test lead;AVENGA;;java;zdalna;B/D;16800.0;18480.0;PLN;;0
+customer support engineer;Trade Ledger;;java;zdalna;B/D;18000.0;22000.0;PLN;;0
+software tester;RST Softare Masters;;java;zdalna;B/D;8000.0;15000.0;PLN;;0
+engineering manager (core/java team);Starburst;;java;warszawa;POL;25000.0;32000.0;PLN;;0
+senior software test engineer;Akamai;;java;zdalna;B/D;14000.0;19500.0;PLN;;1
+automation test analyst (java);HL Tech;;java;warszawa;POL;9000.0;12500.0;PLN;;0
+senior qa engineer;HL Tech;;java;warszawa;POL;17000.0;22000.0;PLN;;1
+junior tester oprogramowania;Enamor International Sp. z o.o.;;java;warszawa;POL;5000.0;8500.0;PLN;;0
+junior devops engineer;RITS Professional Services;;java;zdalna;B/D;16800.0;21000.0;PLN;;0
+test automation engineer (mobile);JCommerce Sp z o o;;java;zdalna;B/D;16800.0;18480.0;PLN;;0
+trainee manual test engineer;Transition Technologies PSC Sp. z o.o;;java;poznań;POL;3192.0;3528.0;PLN;;0
+trainee test automation engineer;Transition Technologies PSC Sp. z o.o;;java;poznań;POL;3192.0;3528.0;PLN;;0
+tester;Decerto Sp. z o.o.;;java;zdalna;B/D;6720.0;7560.0;PLN;;0
+remote test automation engineer;ITMAGINATION;;java;zdalna;B/D;12000.0;22000.0;PLN;;0
+junior qa engineer;Coforge;;java;zdalna;B/D;16800.0;27300.0;PLN;;0
+trainee qa engineer;Qurate Retail Group Global Business Services sp. z o.o.;;java;kraków;POL;5600.0;6300.0;PLN;;0
+specjalista ds. szyn danych;PKO Finat Sp. z o.o.;;java;zdalna;B/D;21000.0;26000.0;PLN;;0
+test automation engineer;Devire;;java;zdalna;B/D;16000.0;26800.0;PLN;;0
+qa automation engineer with .net;EPAM;;java;zdalna;B/D;9000.0;13500.0;PLN;;0
+lead data scientist;Adform Sp. z o.o.;;java;warszawa;POL;22000.0;30000.0;PLN;;0
+lead software engineer;Adform Sp. z o.o.;;java;warszawa;POL;23000.0;30000.0;PLN;;0
+junior qa engineer;Coforge;;java;zdalna;B/D;25200.0;25200.0;PLN;;0
+scala big data engineer;VirtusLab;;java;zdalna;B/D;15000.0;22000.0;PLN;;0
+software engineer (scala) | big data;Adform Sp. z o.o.;;java;zdalna;B/D;18000.0;21000.0;PLN;;0
+remote qa automation engineer;People Trust Sp. z o.o.;;java;zdalna;B/D;13440.0;16800.0;PLN;;0
+database specialist (mongodb/graphdb);AVENGA;;java;zdalna;B/D;16800.0;22680.0;PLN;;0
+marketing data & analytics specialist;Dun & Bradstreet;;java;zdalna;B/D;12000.0;18000.0;PLN;;0
+remote software developer;More Code Sp. z o.o.;;java;zdalna;B/D;16800.0;25200.0;PLN;;0
+scrum master;Devire;;java;warszawa;POL;14000.0;20000.0;PLN;;0
+servicenow developer;Arup;;java;warszawa;"POL
+ + 1";8750.0;10833.0;PLN;;0
+senior android developer;Affirm;;java;zdalna;B/D;19767.0;23717.0;PLN;;1
+data warehouse engineer;Zonda Exchange;;java;zdalna;B/D;17000.0;32000.0;PLN;;0
+senior android developer;eobuie.pl;;java;wrocław;POL;14000.0;20000.0;PLN;;1
+senior android developer;PANSA;;java;poznań;POL;18000.0;19000.0;PLN;;1
+senior android developer [app modivo];eobuie.pl;;java;zdalna;B/D;18000.0;22000.0;PLN;;1
+senior software engineer (scala);Adform Sp. z o.o.;;java;warszawa;POL;22000.0;29000.0;PLN;;1
+software developer;Dreamlab Technologies AG;;java;zdalna;B/D;27352.0;29306.0;PLN;;0
+ci/cd engineer/developer (automotive);Sigma IT Poland;;java;zdalna;B/D;21000.0;28560.0;PLN;;0
+remote android developer;itCraft;;java;zdalna;B/D;15000.0;23000.0;PLN;;0
+senior android developer;Kontakt.io;;java;zdalna;B/D;20000.0;27000.0;PLN;;1
+remote senior aws data engineer;ClearScale;;java;zdalna;B/D;28000.0;38000.0;PLN;;0
+remote qa automation engineer (sdet);ClearScale;;java;zdalna;B/D;29232.0;40320.0;PLN;;0
+senior quality assurance engineer;People Trust Sp. z o.o.;;java;zdalna;B/D;13000.0;17000.0;PLN;;1
+remote lead data architect (aws);ClearScale;;java;zdalna;B/D;33600.0;43680.0;PLN;;0
+webmethods engineer;People Trust Sp. z o.o.;;java;zdalna;B/D;18000.0;28000.0;PLN;;0
+senior ci/cd developer;Nordea Bank ABP;;java;trójmiasto;"POL
+ + 2";14000.0;19000.0;PLN;;1
+software developer;NetorkedAssets Sp. z o.o.;;java;zdalna;B/D;11000.0;18000.0;PLN;;0
+scala / java developer;NetorkedAssets;;java;zdalna;B/D;11000.0;18000.0;PLN;;0
+senior fullstack developer (kotlin/vue);NetorkedAssets Sp. z o.o.;;java;zdalna;B/D;17000.0;28000.0;PLN;;1
+sr / fullstack engineer (backend heavy);Box Inc.;;java;zdalna;B/D;15000.0;25000.0;PLN;;0
+security engineer;Evolution;;java;warszawa;POL;13500.0;24500.0;PLN;;0
+fullstack software engineer;Deutsche Telekom IT Solutions HU;;java;zdalna;B/D;9427.0;18855.0;PLN;;0
+mobile developer;Treesat Sp. z o.o.;;java;olsztyn;POL;10080.0;12600.0;PLN;;0
+scala (java) developer;Lingaro;;java;zdalna;B/D;14280.0;21000.0;PLN;;0
+senior android developer;Angry Nerds;;java;zdalna;B/D;17000.0;25500.0;PLN;;1
+android developer;Itransition;;java;zdalna;B/D;12000.0;22000.0;PLN;;0
+junior fullstack angular & java dev;eejscioki.pl;;java;zdalna;B/D;8000.0;12000.0;PLN;;0
+remote it solution architect;Roche;;java;zdalna;B/D;20000.0;26000.0;PLN;;0
+mid / senior spark big data developer;Capgemini;;java;krakow;"POL
+ + 4";13000.0;20000.0;PLN;;0
+software developer;Amay GBS;;java;kraków;POL;9000.0;15000.0;PLN;;0
+lead developer ruby on rails;HR XPERIENCE GROUP;;java;berlin;DEU;29952.0;31150.0;PLN;;0
+junior devops engineer;BigPicture;;java;zdalna;B/D;7000.0;12000.0;PLN;;0
+android developer;Elocity Sp z o.o.;;java;zdalna;B/D;18480.0;21840.0;PLN;;0
+data engineer;GetInData;;java;zdalna;B/D;20160.0;30240.0;PLN;;0
+qa software engineer with java;Codibly;;java;zdalna;B/D;20160.0;23520.0;PLN;;0
+senior scala engineer;Plume;;java;wrocław;POL;15000.0;23000.0;PLN;;1
+remote mid test automation engineer;Sonel S.A.;;java;zdalna;B/D;8500.0;13000.0;PLN;;0
+android developer;Vestiacom;;java;warszawa;POL;15450.0;20000.0;PLN;;0
+senior qa automation engineer (python);Plume;;java;wrocław;POL;10000.0;18000.0;PLN;;1
+junior fullstack developer;BNP PARIBAS GROUP SERVICE CENTER;;java;warszawa;POL;6000.0;10000.0;PLN;;0
+expert software engineer with java;BigPicture;;java;zdalna;B/D;32000.0;38000.0;PLN;;0
+expert devops engineer;BigPicture;;java;zdalna;B/D;32000.0;38000.0;PLN;;0
+senior devops engineer;BigPicture;;java;zdalna;B/D;22000.0;32000.0;PLN;;1
+senior gcp cloud security engineer;SoftServe Poland;;java;zdalna;B/D;22000.0;26000.0;PLN;;1
+senior devops cloud engineer - jamf now;Jamf;;java;zdalna;B/D;15000.0;22000.0;PLN;;1
+senior collaboration engineer - cc;Amay GBS;;java;kraków;POL;14000.0;20000.0;PLN;;1
+backend developer;UpLink;;java;zdalna;B/D;7375.0;12306.0;PLN;;0
+fullstack developer;Efecte;;java;zdalna;B/D;15000.0;24000.0;PLN;;0
+android developer;Interactive Brokers;;java;budapest;HUN;12570.0;20112.0;PLN;;0
+junior salesforce developer;SUNZINET Polska Sp. z o.o.;;java;zdalna;B/D;5500.0;8500.0;PLN;;0
+programista c#/java;Gomez sp. zoo sp. j;;java;zdalna;B/D;4800.0;8300.0;PLN;;0
+salesforce mid/senior developer;Deloitte Advisory;;java;zdalna;B/D;13000.0;25000.0;PLN;;0
+android developer;iteo sp. z o.o.;;java;zdalna;B/D;10000.0;20000.0;PLN;;0
+remote qa engineer;CDQ;;java;zdalna;B/D;15000.0;20000.0;PLN;;0
+android developer (remote);Superdevs;;java;zdalna;B/D;22000.0;27000.0;PLN;;0
+remote senior android developer(banking);apreel Sp. z o.o.;;java;zdalna;B/D;23520.0;25200.0;PLN;;0
+trener programowania;Giganci Programoania;;java;zdalna;B/D;6720.0;10080.0;PLN;;0
+machine learning engineer;Orange Polska;;java;warszawa;POL;9000.0;18000.0;PLN;;0
+data engineer;Orange Polska;;java;warszawa;POL;9000.0;18000.0;PLN;;0
+data scientist;Orange Polska;;java;warszawa;POL;9000.0;18000.0;PLN;;0
+software engineering manager;Jamf;;java;zdalna;B/D;17000.0;22000.0;PLN;;0
+remote qa engineer;AUTO1 Group;;java;zdalna;B/D;8000.0;15000.0;PLN;;0
+remote android developer (junior);umlaut Sp. z o.o.;;java;zdalna;B/D;5500.0;9000.0;PLN;;0
+tech lead (embedded c & c++);Consult Red;;java;wrocław;POL;21000.0;25000.0;PLN;;0
+android developer | java, kotlin;JCommerce Sp z o o;;java;zdalna;B/D;17640.0;21840.0;PLN;;0
+remote android developer (senior/expert);umlaut Sp. z o.o.;;java;zdalna;B/D;14448.0;27720.0;PLN;;0
+devops automation engineer;AVENGA;;java;zdalna;B/D;31920.0;38640.0;PLN;;0
+remote android developer;umlaut Sp. z o.o.;;java;zdalna;B/D;10752.0;17304.0;PLN;;0
+android developer;Emerson Process Management Sp. z o.o.;;java;warszawa;POL;10000.0;20000.0;PLN;;0
+react native developer;SaldeoSMART;;java;kraków;POL;15000.0;20000.0;PLN;;0
+junior react native developer;SaldeoSMART;;java;kraków;POL;8000.0;10000.0;PLN;;0
+development manager;Genesis Global Limited;;java;zdalna;B/D;23000.0;28000.0;PLN;;0
+remote fullstack python engineer;SoftServe;;java;zdalna;B/D;18000.0;20000.0;PLN;;0
+senior big data engineer;Devire;;java;zdalna;B/D;26000.0;32000.0;PLN;;1
+scala/spark developer;Devire;;java;warszawa;POL;28560.0;33600.0;PLN;;0
+site reliability engineer;Amelco UK LTD;;java;warszawa;POL;21000.0;31500.0;PLN;;0
+senior android engineer;Housecall Pro;;java;zdalna;B/D;26216.0;40198.0;PLN;;1
+android developer;Link Group;;java;zdalna;B/D;24000.0;28000.0;PLN;;0
+technical team leader;IDEMIA Poland R&D;;java;zdalna;B/D;27300.0;35280.0;PLN;;0
+senior quality assurance engineer;Housecall Pro;;java;zdalna;B/D;26216.0;37139.0;PLN;;1
+automation tester - remote;Direct Communication Sp. z o.o.;;java;zdalna;B/D;15000.0;21500.0;PLN;;0
+junior android developer;VlogIT;;java;zdalna;B/D;7000.0;10000.0;PLN;;0
+business analyst with programming skills;DEVnet High Performance Solutions Sp. z o.o.;;java;wrocław;POL;12300.0;19500.0;PLN;;0
+mid data engineer (etl /aws /snowflake);Svitla Systems, Inc.;;java;zdalna;B/D;15292.0;24031.0;PLN;;0
+junior mobile developer;Infor Polska;;java;wrocław;POL;10000.0;12000.0;PLN;;0
+fullstack cloud engineer;Grape Up;;java;kraków;"POL
+ + 2";17700.0;22500.0;PLN;;0
+tech lead;Devire Sp. z o.o.;;java;zdalna;B/D;25000.0;30000.0;PLN;;0
+java fejlesztő;Intalion;;java;budapest;HUN;7542.0;15084.0;PLN;;0
+remote java engineer;ZEN.COM;;java;zdalna;B/D;16000.0;22000.0;PLN;;0
+senior java backend developer;Kitopi;;java;zdalna;B/D;18000.0;26000.0;PLN;;1
+junior java developer;COMP S.A.;;java;zdalna;B/D;5500.0;9500.0;PLN;;0
+mid/senior java developer;cronn Polska sp z o.o.;;java;białystok;POL;9000.0;17000.0;PLN;;0
+experienced java engineer;DNA Technology;;java;zdalna;B/D;17850.0;25200.0;PLN;;0
+software engineer (java)-remote;Guideire Softare;;java;zdalna;B/D;12000.0;19000.0;PLN;;0
+java engineer (mid/senior);LeoVegas;;java;zdalna;B/D;19000.0;26000.0;PLN;;0
+java engineer (mid/senior);LeoVegas;;java;zdalna;B/D;19000.0;26000.0;PLN;;0
+backend developer;Appise Zrt.;;java;budapest;HUN;15834.0;19782.0;PLN;;0
+java engineer (mid/senior);LeoVegas;;java;zdalna;B/D;19000.0;26000.0;PLN;;0
+java engineer (mid/senior);LeoVegas;;java;zdalna;B/D;19000.0;26000.0;PLN;;0
+senior software engineer;Phorest;;java;zdalna;B/D;31150.0;35943.0;PLN;;1
+(senior) java developer;Onelo S.A.;;java;zdalna;B/D;14000.0;24000.0;PLN;;0
+backend engineer;Secret Sauce Partners, Inc.;;java;zdalna;B/D;10056.0;20112.0;PLN;;0
+remote java engineer;Kontakt.io;;java;zdalna;B/D;20160.0;30240.0;PLN;;0
+junior java developer;Altkom Softare & Consulting;;java;zdalna;B/D;4200.0;6000.0;PLN;;0
+junior java developer;Enamor International Sp. z o.o.;;java;warszawa;POL;9000.0;15000.0;PLN;;0
+java software engineer (microservices);ConSol Austria Softare GmbH;;java;zdalna;B/D;23184.0;27384.0;PLN;;0
+junior fullstack java developer;Bersi Sp. z o.o.;;java;bydgoszcz;POL;5000.0;8000.0;PLN;;0
+sap security& devops - senior consultant;SoftareONE Polska Sp. z o.o.;;java;warszawa;"POL
+ + 2";13000.0;15000.0;PLN;;0
+remote android developer;Ghost Vision;;java;zdalna;B/D;17000.0;25000.0;PLN;;0
+mobile developer;Infor Polska;;java;wrocław;POL;15000.0;23000.0;PLN;;0
+senior test automation engineer;TestArmy Group S.A;;java;zdalna;B/D;15120.0;21840.0;PLN;;1
+test automation engineer (java or .net);Link Group;;java;warszawa;"POL
+ + 1";8000.0;15000.0;PLN;;0
+test automation engineer;TestArmy Group S.A;;java;zdalna;B/D;10080.0;15120.0;PLN;;0
+it data engineer;B. Braun Business Services Poland;;java;poznań;"POL
+ + 1";5000.0;7500.0;PLN;;0
+junior android developer;iRonin - Web, Mobile & DevOps Samurai;;java;zdalna;B/D;7000.0;11000.0;PLN;;0
+junior scala developer;TouK;;java;warszawa;POL;5500.0;8400.0;PLN;;0
+senior android developer;Netguru;;java;zdalna;B/D;16000.0;25000.0;PLN;;1
+remote test automation engineer;Euvic;;java;zdalna;B/D;18480.0;23520.0;PLN;;0
+iam engineer;Dun & Bradstreet;;java;zdalna;B/D;15000.0;23000.0;PLN;;0
+data engineer-pofessional;AVENGA;;java;zdalna;B/D;13440.0;16800.0;PLN;;0
+software engineer;Akamai;;java;zdalna;B/D;7800.0;11000.0;PLN;;0
+android developer;7bulls.com sp. z o.o.;;java;zdalna;B/D;21840.0;26040.0;PLN;;0
+junior android developer;Emerson Process Management Sp. z o.o.;;java;warszawa;POL;7000.0;10000.0;PLN;;0
+młodszy tester automatyzujący;Altkom Softare & Consulting;;java;zdalna;B/D;4500.0;6000.0;PLN;;0
+intern;Deloitte Advisory;;java;warszawa;"POL
+ + 1";4704.0;4704.0;PLN;;0
+fintech android developer;Barion Payment Zrt.;;java;zdalna;B/D;10056.0;18855.0;PLN;;0
+junior big data developer;StepStone Services;;java;warszawa;POL;7000.0;10000.0;PLN;;0
+senior scala big data engineer;VirtusLab;;java;zdalna;B/D;21000.0;27000.0;PLN;;1
+junior android developer;HTD Health 🏥;;java;zdalna;B/D;5500.0;11000.0;PLN;;0
+scala developer;Devire Sp. z o.o.;;java;zdalna;B/D;12000.0;18000.0;PLN;;0
+backend developer with c++/java_go;Unikie;;java;zdalna;B/D;18500.0;30500.0;PLN;;0
+embedded c++ developer;Link Group Sp. z o. o.;;java;warszawa;POL;16000.0;26000.0;PLN;;0
+mobile developer;Toro Performance;;java;zdalna;B/D;11000.0;22000.0;PLN;;0
+android developer;Hays Poland;;java;zdalna;B/D;21840.0;30240.0;PLN;;0
+junior qa engineer;Simply Talented;;java;kraków;POL;5000.0;10000.0;PLN;;0
+senior android developer;HTD Health;;java;zdalna;B/D;20700.0;28750.0;PLN;;1
+etl database developer;Sigma IT Poland;;java;zdalna;B/D;15120.0;17640.0;PLN;;0
+developer for identity iq (iiq);ProData Consult;;java;warszawa;POL;20160.0;23520.0;PLN;;0
+sap associate consultant;SoftareONE Polska Sp. z o.o.;;java;warszawa;"POL
+ + 2";6700.0;8000.0;PLN;;0
+android developer;Gigaset;;java;wrocław;POL;8000.0;14000.0;PLN;;0
+react native developer;Devire Sp. z o.o.;;java;zdalna;B/D;13440.0;18480.0;PLN;;0
+software engineer - web development;Qurate Retail Group Global Business Services sp. z o.o.;;java;zdalna;B/D;13000.0;16000.0;PLN;;0
+android developer;YND Technologies;;java;zdalna;B/D;22000.0;28000.0;PLN;;0
+frontend developer;Systell Sp. z o.o. sp.k.;;java;poznań;POL;8000.0;11000.0;PLN;;0
+c++ engineer graduate intern;Corvil,  a Pico company;;java;kraków;POL;4000.0;8000.0;PLN;;0
+remote android developer;HTD Health;;java;zdalna;B/D;12650.0;20700.0;PLN;;0
+java backend developer;Duco Technology Poland Sp.  z o.o.;;java;zdalna;B/D;18000.0;21500.0;PLN;;0
+remote android developer;AVENGA;;java;zdalna;B/D;20160.0;21840.0;PLN;;0
+remote android developer;Devire Sp. z o.o.;;java;zdalna;B/D;16800.0;23520.0;PLN;;0
+test automation engineer;Devqube;;java;zdalna;B/D;15120.0;18480.0;PLN;;0
+senior android developer;HL Tech;;java;zdalna;B/D;19500.0;26000.0;PLN;;1
+test automation engineer;TBSCG;;java;wrocław;POL;16000.0;18000.0;PLN;;0
+aws cloud developer;TBSCG;;java;wrocław;POL;18000.0;28000.0;PLN;;0
+quality assurance engineer (python);Andersen;;java;krakow;POL;12000.0;18000.0;PLN;;0
+full-stack web developer;Sii Polska;;java;zdalna;B/D;18900.0;23940.0;PLN;;0
+mid senior backend developer (node.js);Sing Development;;java;zdalna;B/D;16000.0;28000.0;PLN;;0
+test automation engineer;GoodGrind;;java;budapest;HUN;10056.0;13827.0;PLN;;0
+data engineer;Avanade Poland;;java;warszawa;POL;15000.0;25000.0;PLN;;0
+fullstack java developer;EWL Group;;java;zdalna;B/D;18000.0;21000.0;PLN;;0
+remote qa automation specialist;Aareson;;java;zdalna;B/D;10000.0;19200.0;PLN;;0
+senior android developer;Droids On Roids;;java;wrocław;"POL
+ + 2";14000.0;20000.0;PLN;;1
+junior software developer;ADWEKO Hungary Kft;;java;budapest;HUN;8170.0;9427.0;PLN;;0
+junior test automation engineer;VM.PL Softare House;;java;zdalna;B/D;5880.0;11760.0;PLN;;0
+senior android developer (remote/hybrid);Tango;;java;zdalna;B/D;16000.0;22000.0;PLN;;1
+software engineer (android);Affirm;;java;zdalna;B/D;13667.0;16175.0;PLN;;0
+senior react native developer;Startup Development House;;java;zdalna;B/D;16000.0;24000.0;PLN;;1
+junior qa engineer;Coforge;;java;zdalna;B/D;18900.0;25200.0;PLN;;0
+c ++ engineer;Corvil,  a Pico company;;java;kraków;"POL
+ + 2";10000.0;20000.0;PLN;;0
+junior salesforce developer;heyCloud;;java;zdalna;B/D;4000.0;6500.0;PLN;;0
+mid android developer;Angry Nerds;;java;zdalna;B/D;13000.0;17000.0;PLN;;0
+intern android developer;Miquido;;java;kraków;POL;4000.0;4000.0;PLN;;0
+ios/android team lead;Altimetrik Poland;;java;zdalna;B/D;22000.0;27000.0;PLN;;0
+senior android engineer;Altimetrik Poland;;java;zdalna;B/D;19000.0;23000.0;PLN;;1
+junior test automation engineer;Acaisoft Poland sp. z o.o;;java;zdalna;B/D;5000.0;9000.0;PLN;;0
+senior devops engineer;Luxoft Poland;;java;wrocław;POL;15000.0;17000.0;PLN;;1
+experienced java developer;Bluestone PIM;;java;zdalna;B/D;15000.0;23000.0;PLN;;0
+experienced java developer;Bluestone PIM;;java;gdańsk;POL;15000.0;23000.0;PLN;;0
+middle java engineer;VITech;;java;zdalna;B/D;10923.0;15292.0;PLN;;0
+remote mid java developer;SoftareMill;;java;zdalna;B/D;12075.0;17325.0;PLN;;0
+remote senior java developer;SoftareMill;;java;zdalna;B/D;18375.0;26775.0;PLN;;0
+senior java engineer;Interactive Brokers Hungary Kft.;;java;budapest;HUN;15084.0;22626.0;PLN;;1
+java developer;Pixel Technology Sp. z o.o.;;java;łódź;POL;12000.0;18000.0;PLN;;0
+remote senior java developer;Montrose Softare;;java;zdalna;B/D;18700.0;27400.0;PLN;;0
+backend java developer;Santander Bank Polska;;java;poznań;"POL
+ + 2";10000.0;17000.0;PLN;;0
+senior java software engineer;Amartus Polska Sp. z o.o.;;java;zdalna;B/D;10000.0;20000.0;PLN;;1
+java developer (mid/senior);Stepise;;java;zdalna;B/D;12000.0;23000.0;PLN;;0
+java full-stack developer (100% remote);PGS Softare S.A.;;java;zdalna;B/D;11000.0;19000.0;PLN;;0
+remote java developer;Altkom Softare & Consulting;;java;zdalna;B/D;4200.0;6000.0;PLN;;0
+junior java developer;Unity Group;;java;zdalna;B/D;6720.0;11760.0;PLN;;0
+junior java developer;BlueSoft Sp. z o.o.;;java;zdalna;B/D;5000.0;8500.0;PLN;;0
+java cloud developer;Grape Up;;java;zdalna;B/D;15200.0;21200.0;PLN;;0
+software developer (full-cycle);Amay GBS;;java;kraków;POL;9000.0;15000.0;PLN;;0
+technical architect (java);Objectivity;;java;zdalna;B/D;24360.0;30240.0;PLN;;0
+tech lead java developer (remote);ClearScale;;java;zdalna;B/D;36624.0;51240.0;PLN;;0
+senior java cloud developer;Grape Up;;java;zdalna;B/D;18000.0;27100.0;PLN;;1
+senior java se developer for automotive;HARMAN Connected Services;;java;łódź;POL;13300.0;24000.0;PLN;;1
+senior it developer - java backend;Nordea Bank ABP;;java;trójmiasto;"POL
+ + 2";14000.0;20000.0;PLN;;1
+java developer;People Trust Sp. z o.o.;;java;zdalna;B/D;17000.0;25000.0;PLN;;0
+java/kotlin developer;NetorkedAssets Sp. z o.o.;;java;zdalna;B/D;11000.0;18000.0;PLN;;0
+remote fullstack developer;telXira GmbH;;java;zdalna;B/D;20000.0;25000.0;PLN;;0
+senior backend developer;telXira GmbH;;java;zdalna;B/D;15000.0;25000.0;PLN;;1
+junior java developer;Poznań Supercomputing and Netorking Center;;java;poznań;POL;5000.0;8000.0;PLN;;0
+fullstack developer;Box Inc.;;java;zdalna;B/D;20541.0;27791.0;PLN;;0
+remote fullstack java engineer;DataArt Wrocla Sp. z o.o.;;java;zdalna;B/D;17000.0;28000.0;PLN;;0
+backend java developer;Margo;;java;zdalna;B/D;18000.0;25000.0;PLN;;0
+remote java developer;Stretto;;java;zdalna;B/D;8000.0;14000.0;PLN;;0
+remote java engineer;DataArt Wrocla Sp. z o.o.;;java;zdalna;B/D;17000.0;28000.0;PLN;;0
+java developer;Dynamic Solutions;;java;białystok;"POL
+ + 2";16800.0;26880.0;PLN;;0
+r&d intern - backend developer, remote;Hyland;;java;zdalna;B/D;4500.0;4500.0;PLN;;0
+fullstack java developer;Dynamic Solutions;;java;białystok;"POL
+ + 2";16800.0;26880.0;PLN;;0
+remote java engineer;Mindbox S.A.;;java;zdalna;B/D;23000.0;30000.0;PLN;;0
+java developer;Avenga;;java;wrocław;POL;22680.0;26880.0;PLN;;0
+remote fullstack java + react engineer;iRonin.IT;;java;zdalna;B/D;28000.0;32000.0;PLN;;0
+junior/regular java developer;HARMAN Connected Services;;java;łódź;POL;10000.0;20000.0;PLN;;0
+fullstack developer;Deviniti;;java;zdalna;B/D;12000.0;17000.0;PLN;;0
+programista java senior;Currenda Sp. z o.o.;;java;zdalna;B/D;12000.0;17000.0;PLN;;0
+програміст / software developer;OVOO;;java;kraków;"POL
+ + 1";7000.0;12000.0;PLN;;0
+remote java (hybris) developer;Si e-commerce;;java;zdalna;B/D;9500.0;19000.0;PLN;;0
+senior java engineer;SEON Technologies Kft.;;java;budapest;HUN;15084.0;22626.0;PLN;;1
+java developer;Shiji Poland;;java;katowice;POL;9000.0;17000.0;PLN;;0
+remote junior java engineer;Infoniqa;;java;zdalna;B/D;5000.0;8000.0;PLN;;0
+junior java developer;Marotino;;java;gdańsk;POL;3000.0;6000.0;PLN;;0
+java developer;ASTEK Polska;;java;zdalna;B/D;18900.0;23100.0;PLN;;0
+the best java developer- 100% remote;AVENGA;;java;zdalna;B/D;21840.0;31920.0;PLN;;0
+it system architect;KAFT;;java;zdalna;B/D;25200.0;30240.0;PLN;;0
+java developer - remote;Tryg Forsikring;;java;zdalna;B/D;19320.0;26040.0;PLN;;0
+java developer;DevOpsi;;java;zdalna;B/D;10080.0;16800.0;PLN;;0
+software engineer;Phorest;;java;zdalna;B/D;23962.0;28754.0;PLN;;0
+remote backend engineer;Casumo;;java;zdalna;B/D;19320.0;27216.0;PLN;;0
+java engineer;BNY Mellon;;java;zdalna;B/D;13000.0;20000.0;PLN;;0
+java backend developer;Reality Games;;java;zdalna;B/D;12000.0;20000.0;PLN;;0
+java developer - branża bankowa;Sii Polska;;java;zdalna;B/D;15750.0;25200.0;PLN;;0
+remote back-end java developer;BNY Mellon;;java;zdalna;B/D;13000.0;24000.0;PLN;;0
+remote fullstack developer java, angular;BNY Mellon;;java;zdalna;B/D;13000.0;24000.0;PLN;;0
+junior java/html developer - białystok;Exorigo-Upos;;java;zdalna;B/D;8000.0;10000.0;PLN;;0
+junior java developer;eejscioki.pl;;java;zdalna;B/D;8000.0;12000.0;PLN;;0
+junior java developer;Uniersytet Gdański;;java;gdańsk;POL;4000.0;5500.0;PLN;;0
+software engineer;Randstad;;java;zdalna;B/D;15000.0;21000.0;PLN;;0
+java developer;Oferteo;;java;wrocław;POL;10000.0;16000.0;PLN;;0
+java developer;ALTEN Polska;;java;zdalna;B/D;16300.0;20160.0;PLN;;0
+java developer;Vidarex Kft.;;java;zdalna;B/D;11313.0;17598.0;PLN;;0
+java developer;Interactive Workspace;;java;zdalna;B/D;18000.0;22000.0;PLN;;0
+remote senior java developer;Hypatos GmbH;;java;zdalna;B/D;23962.0;28754.0;PLN;;0
+mid/senior java software engineer;SoftServe;;java;zdalna;B/D;10000.0;20000.0;PLN;;0
+mid/senior  java engineer;Deskset Softare Sp. z o.o.;;java;zdalna;B/D;12000.0;24000.0;PLN;;0
+programista java;Pentacomp Systemy Informatyczne S.A.;;java;zdalna;B/D;11760.0;21840.0;PLN;;0
+mid/senior backend java developer remote;Kuehne + Nagel Sp. z o.o.;;java;zdalna;B/D;17000.0;24000.0;PLN;;0
+software engineer (java);Dynatrace;;java;gdańsk;POL;14000.0;23000.0;PLN;;0
+remote senior java developer;Codest Ltd.;;java;zdalna;B/D;18000.0;21000.0;PLN;;0
+java se developer for automotive;HARMAN Connected Services;;java;łódź;POL;7000.0;13000.0;PLN;;0
+sr backend engineer, storage client exp;Box Inc.;;java;zdalna;B/D;21000.0;37000.0;PLN;;0
+middle java developer;Infopulse;;java;zdalna;B/D;20160.0;23520.0;PLN;;0
+remote senior qa engineer;Infogain Technologies Sp. z o.o.;;java;zdalna;B/D;16000.0;26000.0;PLN;;0
+lead java software engineer;Infogain Technologies Sp. z o.o.;;java;zdalna;B/D;19500.0;31000.0;PLN;;0
+junior java developer;Remedy;;java;zdalna;B/D;6554.0;13108.0;PLN;;0
+java fejlesztő;Intalion;;java;budapest;HUN;7542.0;15084.0;PLN;;0
+java developer;EPAM;;java;zdalna;B/D;9000.0;14000.0;PLN;;0
+lead java developer;EPAM;;java;zdalna;B/D;14000.0;21000.0;PLN;;0
+java tech lead / architect;Devire;;java;zdalna;B/D;30000.0;35000.0;PLN;;0
+data engineer;GetInData;;java;zdalna;B/D;20160.0;30240.0;PLN;;0
+java developer;Decerto Sp. z o.o.;;java;zdalna;B/D;11760.0;15120.0;PLN;;0
+team lead fullstack developer;Coforge;;java;zdalna;B/D;31500.0;37800.0;PLN;;0
+java or kotlin engineer;Fox Heap;;java;zdalna;B/D;22400.0;27200.0;PLN;;0
+mulesoft senior developer;AVENGA;;java;zdalna;B/D;23520.0;26880.0;PLN;;0
+senior java developer - remote / hybrid;HERE Technologies;;java;zdalna;B/D;16666.0;25000.0;PLN;;1
+programista java (jr/mid);Enigma SOI;;java;warszawa;POL;6300.0;9400.0;PLN;;0
+java engineer;Pixel Technology Sp. z o.o.;;java;łódź;POL;6000.0;8500.0;PLN;;0
+fullstack developer;ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;;java;zdalna;B/D;9000.0;16000.0;PLN;;0
+java developer;ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;;java;zdalna;B/D;9000.0;16000.0;PLN;;0
+regular java developer;Sii Polska;;java;zdalna;B/D;16800.0;23100.0;PLN;;0
+java developer;Coinfirm;;java;zdalna;B/D;12000.0;20000.0;PLN;;0
+junior java developer;Gyfted;;java;zdalna;B/D;4000.0;7000.0;PLN;;0
+remote java cloud developer;DahliaMatic Sp. z o.o.;;java;zdalna;B/D;20000.0;35000.0;PLN;;0
+backend developer;Deviniti;;java;zdalna;B/D;13000.0;17000.0;PLN;;0
+java developer;Appliscale;;java;zdalna;B/D;12000.0;20000.0;PLN;;0
+seniorjava developer;Plenti;;java;zdalna;B/D;18000.0;19000.0;PLN;;1
+remote java developer;Nickel Digital Asset Management;;java;zdalna;B/D;15000.0;30000.0;PLN;;0
+java backend developer;Kitopi;;java;zdalna;B/D;13500.0;20000.0;PLN;;0
+remote senior java developer;Devire;;java;zdalna;B/D;31920.0;38640.0;PLN;;0
+java developer;Oncompass Medicine Hungary Kft.;;java;zdalna;B/D;9427.0;18855.0;PLN;;0
+java developer (regular/senior);AVENGA;;java;zdalna;B/D;21840.0;28560.0;PLN;;0
+fulstack java developer;Metrosoft;;java;zdalna;B/D;15000.0;22000.0;PLN;;0
+senior backend developer;Kahoot!;;java;zdalna;B/D;20000.0;31000.0;PLN;;1
+java developer;Citi Service Center;;java;warszawa;POL;10000.0;20000.0;PLN;;0
+senior java developer – innovation team;Citi Service Center;;java;warszawa;POL;14300.0;28600.0;PLN;;1
+java developer;Poer Media;;java;wrocław;"POL
+ + 4";16000.0;32000.0;PLN;;0
+medior java developer;Reed Hungary;;java;budapest;HUN;13827.0;17598.0;PLN;;0
+senior software engineer;Get Bridge;;java;budapest;HUN;17598.0;22626.0;PLN;;1
+remote expert java developer;BigPicture;;java;zdalna;B/D;32000.0;38000.0;PLN;;0
+mid/senior java algorithm engineer;Syncron Sp. z o.o.;;java;zdalna;B/D;13300.0;23000.0;PLN;;0
+solution architect;Inter Cars S.A.;;java;zdalna;B/D;21000.0;25000.0;PLN;;0
+java developer;MUGCO, LLC.;;java;zdalna;B/D;21847.0;30585.0;PLN;;0
+java engineer;Conscensia;;java;warszawa;POL;15000.0;22000.0;PLN;;0
+junior / regular java software engineer;Codeise;;java;zdalna;B/D;10300.0;17250.0;PLN;;0
+java software engineer;Codeise;;java;zdalna;B/D;15000.0;21000.0;PLN;;0
+medior/senior java developer;Innovie Kft.;;java;budapest;HUN;12570.0;18855.0;PLN;;0
+software engineer (java)-remote;Guideire Softare;;java;zdalna;B/D;12000.0;17000.0;PLN;;0
+java team leader;apreel Sp. z o.o.;;java;zdalna;B/D;26880.0;31920.0;PLN;;0
+java craftsman;Calamari;;java;zdalna;B/D;16000.0;26000.0;PLN;;0
+java developer;Onelo S.A.;;java;zdalna;B/D;12600.0;18900.0;PLN;;0
+fullstack java developer;AVENGA;;java;zdalna;B/D;16800.0;19320.0;PLN;;0
+lead java developer;Blackbelt Holding Zrt;;java;budapest;HUN;16341.0;20112.0;PLN;;0
+senior java developer with german;VM.PL Softare House;;java;zdalna;B/D;18480.0;25200.0;PLN;;1
+senior java backend developer;VM.PL Softare House;;java;zdalna;B/D;18480.0;25200.0;PLN;;1
+solution jvm engineer;Ringier Axel Springer Tech;;java;zdalna;B/D;11000.0;21100.0;PLN;;0
+junior java developer;ERGO Technology & Services;;java;warszawa;POL;10000.0;13000.0;PLN;;0
+senior java developer r&d;Vaadin;;java;zdalna;B/D;21565.0;28754.0;PLN;;1
+java developer;Hays Poland;;java;łódź;"POL
+ + 1";14280.0;25200.0;PLN;;0
+java backend developer;Green Minds Sp.z o.o.;;java;zdalna;B/D;23520.0;28560.0;PLN;;0
+senior webmethods developer;People Trust Sp. z o.o.;;java;zdalna;B/D;20000.0;27000.0;PLN;;1
+java developer;Knode;;java;zdalna;B/D;16000.0;28000.0;PLN;;0
+java developer;SafeKiddo sp. z o.o. sp. k.;;java;warszawa;POL;7000.0;13000.0;PLN;;0
+junior integration developer (java);Qurate Retail Group Global Business Services sp. z o.o.;;java;zdalna;B/D;11000.0;14000.0;PLN;;0
+fullstack developer;RSM Poland;;java;zdalna;B/D;10000.0;15000.0;PLN;;0
+qa engineer (team integrations);Recruitee;;tester;zdalna;B/D;7000.0;14000.0;PLN;;0
+manual tester;Hays Poland;;tester;zdalna;B/D;8000.0;10000.0;PLN;;0
+developer in test;Ved Softare;;tester;zdalna;B/D;10000.0;16000.0;PLN;;0
+test automation engineer (power grid);Volue;;tester;gdańsk;POL;13500.0;23000.0;PLN;;0
+qa engineer;Devire;;tester;zdalna;B/D;10000.0;13000.0;PLN;;0
+remote mid/senior web qa engineer;Capco;;tester;zdalna;B/D;15120.0;24360.0;PLN;;0
+remote test automation engineer;Capco;;tester;zdalna;B/D;15120.0;24360.0;PLN;;0
+java qa engineer - 100% remote;AVENGA;;tester;zdalna;B/D;16800.0;18480.0;PLN;;0
+test automation with genrocket;System Verification;;tester;zdalna;B/D;20000.0;27000.0;PLN;;0
+remote quality assurance engineer;Shiji Poland;;tester;zdalna;B/D;9000.0;18000.0;PLN;;0
+senior qa engineer (product, remote);Open Loyalty;;tester;zdalna;B/D;13000.0;18000.0;PLN;;1
+manual software tester;Ziegler Group;;tester;zdalna;B/D;7000.0;10000.0;PLN;;0
+mobile qa engineer;Link Group Sp. z o. o.;;tester;zdalna;B/D;16000.0;21000.0;PLN;;0
+software tester;E NET PRODUCTION;;tester;zdalna;B/D;10000.0;14000.0;PLN;;0
+test automation engineer / test lead;AVENGA;;tester;zdalna;B/D;16800.0;18480.0;PLN;;0
+senior automation tester;ASTEK Polska;;tester;warszawa;POL;16800.0;20160.0;PLN;;1
+tester aplikacji webowych;autoDNA;;tester;łódź;POL;3500.0;6000.0;PLN;;0
+software qa specialist;TestArmy Group S.A;;tester;zdalna;B/D;6720.0;8400.0;PLN;;0
+remote test automation engineer;Euvic;;tester;zdalna;B/D;18480.0;23520.0;PLN;;0
+qa test engineer;Sky and Space Co;;tester;zdalna;B/D;8000.0;12000.0;PLN;;0
+senior qa test engineer;Sky and Space Co;;tester;zdalna;B/D;12000.0;14000.0;PLN;;1
+testing and qa engineer;Tutore;;tester;zdalna;B/D;8000.0;13000.0;PLN;;0
+manual application tester;Ornsson Solutions Sp. z o.o.;;tester;zdalna;B/D;8000.0;10000.0;PLN;;0
+junior quality assurance specialist;Enxoo;;tester;zdalna;B/D;3500.0;6000.0;PLN;;0
+młodszy tester oprogramowania;HRose;;tester;łódź;POL;5000.0;6000.0;PLN;;0
+młodszy tester automatyzujący;Altkom Softare & Consulting;;tester;zdalna;B/D;4500.0;6000.0;PLN;;0
+penetration tester;Devire Sp. z o.o.;;tester;zdalna;B/D;7000.0;14000.0;PLN;;0
+software tester;RST Softare Masters;;tester;zdalna;B/D;8000.0;15000.0;PLN;;0
+junior manual test engineer;CrustLab;;tester;zdalna;B/D;4000.0;6500.0;PLN;;0
+test automation engineer;Wave;;tester;zdalna;B/D;10000.0;14000.0;PLN;;0
+qa engineer;ERGO Technology & Services;;tester;zdalna;B/D;10000.0;14000.0;PLN;;0
+manual test engineer;Appsvio;;tester;zdalna;B/D;4000.0;7000.0;PLN;;0
+senior qa engineer;Strix;;tester;zdalna;B/D;11000.0;15000.0;PLN;;1
+junior test automation engineer;in4ge sp. z o.o.;;tester;zdalna;B/D;8000.0;10000.0;PLN;;0
+junior qa engineer;Simply Talented;;tester;kraków;POL;5000.0;10000.0;PLN;;0
+qa engineer;Devire Sp. z o.o.;;tester;zdalna;B/D;15000.0;21000.0;PLN;;0
+test automation expert;Link Group;;tester;zdalna;B/D;20000.0;22000.0;PLN;;0
+trainee test automation engineer;AXA Avanssur SA Spółka Akcyjna Oddział II  Polsce;;tester;zdalna;B/D;3360.0;4200.0;PLN;;0
+junior test automation engineer;Plenti;;tester;gdańsk;POL;8000.0;10000.0;PLN;;0
+junior qa engineer;House of Angular;;tester;zdalna;B/D;4000.0;8000.0;PLN;;0
+młodszy tester manualny;Storare Sp. z o.o.;;tester;zdalna;B/D;4000.0;8000.0;PLN;;0
+qa engineer;Consult Red;;tester;wrocław;POL;9000.0;13000.0;PLN;;0
+junior qa engineer;Payability;;tester;warszawa;"POL
+ + 2";4500.0;7500.0;PLN;;0
+manual test engineer;Vizlib;;tester;zdalna;B/D;9240.0;12600.0;PLN;;0
+mobile tester;FarmaProm;;tester;kraków;POL;6600.0;9600.0;PLN;;0
+senior software test engineer;Akamai;;tester;zdalna;B/D;14000.0;19500.0;PLN;;1
+remote test automation engineer;Link Group;;tester;zdalna;B/D;18000.0;21500.0;PLN;;0
+senior qa automation engineer;Neubloc Polska Sp. z o.o.;;tester;katowice;"POL
+ + 2";11000.0;16000.0;PLN;;1
+qa automation engineer;SpotOn;;tester;zdalna;B/D;14000.0;19000.0;PLN;;0
+test automation engineer;Viercode;;tester;zdalna;B/D;6000.0;12000.0;PLN;;0
+test automation engineer (python);Siili;;tester;wrocław;"POL
+ + 1";13440.0;19320.0;PLN;;0
+test automation engineer;Devqube;;tester;zdalna;B/D;15120.0;18480.0;PLN;;0
+automation test analyst (java);HL Tech;;tester;warszawa;POL;9000.0;12500.0;PLN;;0
+senior qa engineer;HL Tech;;tester;warszawa;POL;17000.0;22000.0;PLN;;1
+qa engineer;Synerise;;tester;zdalna;B/D;7000.0;14000.0;PLN;;0
+test automation engineer;TBSCG;;tester;wrocław;POL;16000.0;18000.0;PLN;;0
+api tester;Sii Polska;;tester;zdalna;B/D;8400.0;16800.0;PLN;;0
+junior software test analyst;FIS Techlology Services (Poland) Sp. z o.o.;;tester;warszawa;POL;6000.0;12000.0;PLN;;0
+senior tester - business intelligence;Sii Polska;;tester;warszawa;"POL
+ + 6";10500.0;18900.0;PLN;;1
+quality assurance engineer (python);Andersen;;tester;krakow;POL;12000.0;18000.0;PLN;;0
+junior tester oprogramowania;Enamor International Sp. z o.o.;;tester;warszawa;POL;5000.0;8500.0;PLN;;0
+manual qa engineer - 100% remote;Ideamotive;;tester;zdalna;B/D;11000.0;13000.0;PLN;;0
+qa engineer;To-Up Agency Sp. z o.o.;;tester;zdalna;B/D;7000.0;8500.0;PLN;;0
+agile test engineer in coredev;ESET;;tester;kraków;POL;9000.0;13000.0;PLN;;0
+agile test engineer;ESET;;tester;zdalna;B/D;9000.0;13000.0;PLN;;0
+remote manual or automation tester or qa;Vstorm;;tester;zdalna;B/D;8500.0;16800.0;PLN;;0
+test automation engineer;Devire;;tester;zdalna;B/D;15120.0;20160.0;PLN;;0
+senior application web tester;PCMI Corporation;;tester;zdalna;B/D;12000.0;17000.0;PLN;;1
+test automation engineer;JCommerce Sp z o o;;tester;zdalna;B/D;16800.0;18480.0;PLN;;0
+adept tester oprogramowania;SB SOFTWARE Sp. z o.o.;;tester;szczecin;POL;3500.0;4000.0;PLN;;0
+test automation engineer (mobile);JCommerce Sp z o o;;tester;zdalna;B/D;16800.0;18480.0;PLN;;0
+remote qa automation specialist;Aareson;;tester;zdalna;B/D;10000.0;19200.0;PLN;;0
+qa engineer;Bridgemaker Tech Sp. z o.o.;;tester;zdalna;B/D;10000.0;16000.0;PLN;;0
+trainee manual test engineer;Transition Technologies PSC Sp. z o.o;;tester;poznań;POL;3192.0;3528.0;PLN;;0
+trainee test automation engineer;Transition Technologies PSC Sp. z o.o;;tester;poznań;POL;3192.0;3528.0;PLN;;0
+junior software tester;Andea Solutions Sp. z o.o.;;tester;kraków;POL;3500.0;7000.0;PLN;;0
+junior software tester;Emerson Process Management Sp. z o.o.;;tester;warszawa;POL;6000.0;8000.0;PLN;;0
+tester;Decerto Sp. z o.o.;;tester;zdalna;B/D;6720.0;7560.0;PLN;;0
+junior test automation engineer;VM.PL Softare House;;tester;zdalna;B/D;5880.0;11760.0;PLN;;0
+junior qa engineer;CodiLime;;tester;zdalna;B/D;6500.0;11000.0;PLN;;0
+qa specialist;Droptica Sp. z o.o.;;tester;zdalna;B/D;4900.0;7700.0;PLN;;0
+qa engineer;Startup Development House;;tester;zdalna;B/D;7000.0;10000.0;PLN;;0
+senior qa engineer;Startup Development House;;tester;zdalna;B/D;10000.0;13000.0;PLN;;1
+junior qa engineer;Coforge;;tester;zdalna;B/D;18900.0;25200.0;PLN;;0
+junior manual tester (english + spanish);LeasingTeam Professional;;tester;zdalna;B/D;5000.0;6000.0;PLN;;0
+junior qa tester | wordpress developer;OSOM STUDIO;;tester;zdalna;B/D;4000.0;6500.0;PLN;;0
+junior qa engineer;Synerise;;tester;zdalna;B/D;5000.0;8000.0;PLN;;0
+junior manual test engineer;AVENGA;;tester;wrocław;POL;10760.0;11760.0;PLN;;0
+junior manual tester (english & german);LeasingTeam Professional;;tester;zdalna;B/D;5000.0;6000.0;PLN;;0
+remote test engineer;DTiQ;;tester;zdalna;B/D;8000.0;12000.0;PLN;;0
+remote tester;DTiQ;;tester;zdalna;B/D;7000.0;11000.0;PLN;;0
+manual software tester;Ziegler Group;;tester;zdalna;B/D;4000.0;7000.0;PLN;;0
+remote test automation engineer;ITMAGINATION;;tester;zdalna;B/D;12000.0;22000.0;PLN;;0
+junior tester aplikacji webowych;autoDNA;;tester;łódź;POL;3500.0;6000.0;PLN;;0
+software tester intern;GGS IT Consulting;;tester;kraków;POL;3000.0;3500.0;PLN;;0
+młodszy tester manualny;IT Fashion Polska Group & Partners Sp. z o.o.;;tester;warszawa;POL;6500.0;7500.0;PLN;;0
+intern software tester;Miquido;;tester;kraków;POL;4000.0;4000.0;PLN;;0
+tester oprogramowania;LSI Softare S.A.;;tester;łódź;POL;4700.0;6200.0;PLN;;0
+junior quality assurance specialist;Legimi S.A.;;tester;zdalna;B/D;6000.0;8500.0;PLN;;0
+remote qa engineer (js);medcase Health;;tester;zdalna;B/D;7000.0;12500.0;PLN;;0
+junior qa engineer;Coforge;;tester;zdalna;B/D;16800.0;27300.0;PLN;;0
+qa engineer;Payability;;tester;katowice;"POL
+ + 2";10000.0;15000.0;PLN;;0
+quality assurance engineer;Chargify;;tester;zdalna;B/D;8000.0;12000.0;PLN;;0
+test engineer;Grupa ZPR Media;;tester;warszawa;POL;10000.0;10000.0;PLN;;0
+trainee qa engineer;Qurate Retail Group Global Business Services sp. z o.o.;;tester;kraków;POL;5600.0;6300.0;PLN;;0
+junior test engineer;Ved Softare;;tester;wrocław;POL;7000.0;9000.0;PLN;;0
+młodszy tester;Altkom Softare & Consulting;;tester;zdalna;B/D;3500.0;4900.0;PLN;;0
+junior test automation engineer;Acaisoft Poland sp. z o.o;;tester;zdalna;B/D;5000.0;9000.0;PLN;;0
+test automation engineer;Luxoft Poland;;tester;zdalna;B/D;12000.0;15000.0;PLN;;0
+qa engineer;XTB;;tester;zdalna;B/D;4000.0;7000.0;PLN;;0
+manual test engineer;Collective Consulting Kft.;;tester;zdalna;B/D;11313.0;15084.0;PLN;;0
+manuális tesztelő_zr_3693_job;IDBC Creative Solutions Kft.;;tester;zdalna;B/D;13188.0;15834.0;PLN;;0
+manual test engineer;Abesse Zrt.;;tester;budapest;HUN;7542.0;13827.0;PLN;;0
+qa engineer;Techzia Kft. / Full Force Gaming Group;;tester;szombathely;HUN;8170.0;9427.0;PLN;;0
+test analyst;Appise Zrt.;;tester;budapest;HUN;8799.0;10056.0;PLN;;0
+tapasztalt tesztmenedzser;BCA Hungary Kft.;;tester;budapest;HUN;15834.0;29022.0;PLN;;0
+test engineer;Alvicom Kft.;;tester;budapest;HUN;5342.0;10684.0;PLN;;0
+manual test engineer;GoodGrind;;tester;budapest;HUN;6285.0;8799.0;PLN;;0
+it automata tesztmérnök;Transpose Kft;;tester;budapest;HUN;8799.0;13827.0;PLN;;0
+tester;DPDgroup IT Solutions Hungary Kft;;tester;budapest;HUN;6285.0;7542.0;PLN;;0
+test automation engineer;XUND;;tester;budapest;HUN;8799.0;11313.0;PLN;;0
+qa lead;BOLD;;tester;zdalna;B/D;16000.0;20000.0;PLN;;0
+test automation engineer;Devire;;tester;zdalna;B/D;16000.0;26800.0;PLN;;0
+manual test engineer;FARA Polska;;tester;warszawa;POL;11760.0;18480.0;PLN;;0
+senior test automation engineer in js;EPAM;;tester;zdalna;B/D;11500.0;17500.0;PLN;;1
+test automation engineer (javascript);EPAM;;tester;zdalna;B/D;9000.0;13500.0;PLN;;0
+senior test automation engineer in .net;EPAM;;tester;zdalna;B/D;11500.0;17500.0;PLN;;1
+qa automation engineer with .net;EPAM;;tester;zdalna;B/D;9000.0;13500.0;PLN;;0
+tester it;Aplikacje Krytyczne;;tester;zdalna;B/D;5000.0;8000.0;PLN;;0
+sap functional tester;ProData Consult;;tester;warszawa;POL;15120.0;21840.0;PLN;;0
+senior software tester;Syncron Sp. z o.o.;;tester;zdalna;B/D;12300.0;18300.0;PLN;;1
+test automation engineer;Devire;;tester;warszawa;"POL
+ + 1";19000.0;21000.0;PLN;;0
+remote qa engineer;Devire Sp. z o.o.;;tester;zdalna;B/D;16800.0;21000.0;PLN;;0
+junior manual test engineer;AVENGA;;tester;zdalna;B/D;10080.0;11760.0;PLN;;0
+quality assurance analyst;Packhelp;;tester;warszawa;POL;6000.0;10000.0;PLN;;0
+junior functional tester;Sopra Steria - Apps Services;;tester;katowice;POL;8400.0;11760.0;PLN;;0
+it test manager;ProData Consult;;tester;gdynia;"POL
+ + 1";16800.0;20160.0;PLN;;0
+manual tester;Sii Polska;;tester;zdalna;B/D;10500.0;16800.0;PLN;;0
+qa software engineer automation;riskmethods;;tester;zdalna;B/D;10000.0;17000.0;PLN;;0
+remote qa automation engineer;People Trust Sp. z o.o.;;tester;zdalna;B/D;13440.0;16800.0;PLN;;0
+test engineer;Aebi Schmidt Polska Sp. z o.o.;;tester;katowice;POL;12000.0;18000.0;PLN;;0
+application test engineer;COMP S.A.;;tester;zdalna;B/D;10000.0;13000.0;PLN;;0
+quality assurance 6500 - 11200 pln b2b;Spark Solutions;;tester;zdalna;B/D;6500.0;11200.0;PLN;;0
+test automation engineer;F-Secure;;tester;poznań;POL;13500.0;21000.0;PLN;;0
+junior software qa engineer with java;Codibly;;tester;zdalna;B/D;11760.0;15120.0;PLN;;0
+functional tester;Link Group;;tester;zdalna;B/D;14500.0;20000.0;PLN;;0
+qa automation engineer;Railaymen Sp. z o.o.;;tester;zdalna;B/D;9000.0;15000.0;PLN;;0
+qa automation engineer;eobuie.pl;;tester;zdalna;B/D;12000.0;16000.0;PLN;;0
+senior test automation engineer;EcoVadis Polska Sp. z o. o.;;tester;zdalna;B/D;18480.0;23520.0;PLN;;1
+junior qa engineer;goodylabs sp z o.o.;;tester;łódź;POL;4800.0;7200.0;PLN;;0
+test automation engineer;ALTEN Polska;;tester;zdalna;B/D;15120.0;17500.0;PLN;;0
+test automation engineer;SALY;;tester;kraków;POL;10000.0;14000.0;PLN;;0
+test automation engineer (b2b/uop);STS S. A.;;tester;zdalna;B/D;8000.0;11000.0;PLN;;0
+software tester;Emerson Process Management Sp. z o.o.;;tester;warszawa;POL;7000.0;10000.0;PLN;;0
+tester manualny;Sii Polska;;tester;zdalna;B/D;8400.0;14700.0;PLN;;0
+test automation engineer;Chatham Financial;;tester;krakow;POL;12000.0;15000.0;PLN;;0
+remote qa automation engineer (sdet);ClearScale;;tester;zdalna;B/D;29232.0;40320.0;PLN;;0
+lead qa engineer;Cisco;;tester;zdalna;B/D;16000.0;26000.0;PLN;;0
+remote qa engineer/software tester;Shoper S.A;;tester;zdalna;B/D;8000.0;14000.0;PLN;;0
+senior quality assurance engineer;People Trust Sp. z o.o.;;tester;zdalna;B/D;13000.0;17000.0;PLN;;1
+remote qa engineer;DataArt Wrocla Sp. z o.o.;;tester;zdalna;B/D;12000.0;18000.0;PLN;;0
+remote qaa engineer;DataArt Wrocla Sp. z o.o.;;tester;zdalna;B/D;16000.0;23000.0;PLN;;0
+manual tester - internship;Mobica Limited;;tester;zdalna;B/D;4200.0;4500.0;PLN;;0
+test automation engineer with python;System Verification;;tester;zdalna;B/D;15000.0;21000.0;PLN;;0
+junior software tester;SuperControl;;tester;zdalna;B/D;5000.0;6500.0;PLN;;0
+system test engineer 100% remote;t-media Polska Sp. z o.o.;;tester;częstochowa;POL;8000.0;12000.0;PLN;;0
+remote test automation engineer;DahliaMatic Sp. z o.o.;;tester;zdalna;B/D;17000.0;33000.0;PLN;;0
+remote wordpress developer;Acclaim;;tester;zdalna;B/D;10000.0;16000.0;PLN;;0
+test automation engineer;Codahead;;tester;zdalna;B/D;11424.0;18816.0;PLN;;0
+quality assurance engineer;CBRE Corporate Outsourcing;;tester;zdalna;B/D;16800.0;24000.0;PLN;;0
+qa engineer;MeWe;;tester;zdalna;B/D;6554.0;8738.0;PLN;;0
+qa engineer;Limango Polska sp. z o.o.;;tester;wrocław;POL;12000.0;15000.0;PLN;;0
+qa engineer;esky.pl S.A.;;tester;zdalna;B/D;14000.0;18000.0;PLN;;0
+remote test automation engineer;Hyland;;tester;zdalna;B/D;9000.0;18000.0;PLN;;0
+test software engineer;HARMAN Connected Services;;tester;łódź;POL;9800.0;14900.0;PLN;;0
+java automation tester - branża bankowa;Sii Polska;;tester;zdalna;B/D;15750.0;23100.0;PLN;;0
+remote senior qa engineer;Plentific;;tester;zdalna;B/D;20118.0;35217.0;PLN;;0
+remote qa engineer;AppUnite sp. z. o.o. sp. k.;;tester;zdalna;B/D;7000.0;12000.0;PLN;;0
+test automation engineer (remote);Infoprojekt sp. z o. o.;;tester;zdalna;B/D;11000.0;16000.0;PLN;;0
+test lead;Infopulse;;tester;zdalna;B/D;21840.0;26880.0;PLN;;0
+test automation engineer;CSHARK Sp. z o.o.;;tester;zdalna;B/D;13500.0;17000.0;PLN;;0
+młodszy specjalista ds. testów i analiz;Sii Polska;;tester;warszawa;POL;3000.0;5500.0;PLN;;0
+junior qa engineer;Pive;;tester;kraków;POL;5000.0;5800.0;PLN;;0
+system tester for automotive;JSDSolutions;;tester;zdalna;B/D;10000.0;19000.0;PLN;;0
+it test automation engineer;ProData Consult;;tester;gdynia;POL;21000.0;24360.0;PLN;;0
+senior quality assurance engineer;Phoenix Project;;tester;zdalna;B/D;12408.0;20163.0;PLN;;1
+testers academy – trainee;GlobalLogic;;tester;zdalna;B/D;4368.0;4368.0;PLN;;0
+junior manual test engineer;Gyfted;;tester;zdalna;B/D;3000.0;6000.0;PLN;;0
+java test developer;Sii Polska;;tester;zdalna;B/D;12600.0;23100.0;PLN;;0
+qa engineer;Link Group;;tester;zdalna;B/D;23520.0;26880.0;PLN;;0
+quality assurance engineer;Volvo Group;;tester;zdalna;B/D;9000.0;17000.0;PLN;;0
+qa software engineer with java;Codibly;;tester;zdalna;B/D;20160.0;23520.0;PLN;;0
+inżynier testów ds. przetwarzania danych;Aplikacje Krytyczne;;tester;zdalna;B/D;5000.0;8500.0;PLN;;0
+qa engineer - devqa;Plume;;tester;wrocław;POL;10000.0;16000.0;PLN;;0
+lead/senior test automation engineer;Euvic;;tester;gliwice;POL;16800.0;25200.0;PLN;;0
+senior automation tester (python);AVENGA;;tester;zdalna;B/D;15120.0;18480.0;PLN;;1
+senior software tester - remote;AVENGA;;tester;zdalna;B/D;14280.0;16800.0;PLN;;1
+manual qa;Acaisoft Poland Sp. z.o.o;;tester;zdalna;B/D;10000.0;16000.0;PLN;;0
+remote mid test automation engineer;Sonel S.A.;;tester;zdalna;B/D;8500.0;13000.0;PLN;;0
+remote manual test engineer;Sonel S.A.;;tester;zdalna;B/D;6000.0;11000.0;PLN;;0
+senior qa automation engineer (python);Plume;;tester;wrocław;POL;10000.0;18000.0;PLN;;1
+qa engineer;Unity Group;;tester;zdalna;B/D;8500.0;12700.0;PLN;;0
+test automation engineer (lte/5g);Link Group;;tester;zdalna;B/D;13500.0;16800.0;PLN;;0
+java test automation engineer;Solit;;tester;zdalna;B/D;12600.0;16000.0;PLN;;0
+regular qa;Clearcode;;tester;zdalna;B/D;10000.0;14000.0;PLN;;0
+performance engineer;Sii Polska;;tester;zdalna;B/D;14700.0;25200.0;PLN;;0
+remote test automation engineer;Milo Solutions;;tester;zdalna;B/D;10000.0;13500.0;PLN;;0
+remote mid/senior qa engineer (aws);ClearScale;;tester;zdalna;B/D;18816.0;26880.0;PLN;;0
+test automation engineer;Sollers Consulting;;tester;warszawa;"POL
+ + 8";11800.0;18500.0;PLN;;0
+senior tester;Sollers Consulting;;tester;warszawa;"POL
+ + 8";11800.0;16500.0;PLN;;1
+manual tester;VM.PL Softare House;;tester;zdalna;B/D;10080.0;13440.0;PLN;;0
+test manager;VM.PL Softare House;;tester;zdalna;B/D;16800.0;23520.0;PLN;;0
+junior manual test engineer with python;Kontakt.io;;tester;kraków;POL;8000.0;13500.0;PLN;;0
+python test developer;Solit;;tester;zdalna;B/D;8000.0;14000.0;PLN;;0
+qa engineer for linux/ android;Ved Softare;;tester;warszawa;POL;10920.0;15960.0;PLN;;0
+remote software application tester;BigPicture;;tester;zdalna;B/D;8500.0;11500.0;PLN;;0
+qa engineer;NOVOMATIC Technologies Poland S.A.;;tester;zdalna;B/D;11900.0;23700.0;PLN;;0
+manual test engineer;Hays Poland;;tester;zdalna;B/D;13440.0;16800.0;PLN;;0
+test automation engineer;Hays Poland;;tester;zdalna;B/D;23520.0;26040.0;PLN;;0
+sap test automation - 100% remote;AVENGA;;tester;zdalna;B/D;16800.0;19320.0;PLN;;0
+senior software qa specialist;TestArmy Group S.A;;tester;zdalna;B/D;8400.0;11760.0;PLN;;1
+mobile qa engineer, tutoring;BRAINLY;;tester;zdalna;B/D;9000.0;14000.0;PLN;;0
+remote mobile qa engineer;Engenious.io;;tester;zdalna;B/D;8000.0;15000.0;PLN;;0
+młodszy specjalista ds. testów i analiz;Sii Polska;;tester;warszawa;POL;3000.0;5500.0;PLN;;0
+junior test automation developer;CloudFerro;;tester;warszawa;POL;5000.0;8000.0;PLN;;0
+junior manual tester;Dev and Deliver;;tester;zdalna;B/D;3000.0;6000.0;PLN;;0
+remote test engineer (web/mobile);Solit;;tester;zdalna;B/D;8000.0;14000.0;PLN;;0
+remote tester manualny;apreel Sp. z o.o.;;tester;warszawa;"POL
+ + 1";8400.0;14700.0;PLN;;0
+qa lead with python / 100% remote;AVENGA;;tester;zdalna;B/D;26880.0;28560.0;PLN;;0
+remote qa engineer;CDQ;;tester;zdalna;B/D;15000.0;20000.0;PLN;;0
+manual game tester;Link Group;;tester;zdalna;B/D;10000.0;16000.0;PLN;;0
+senior test automation engineer;Apptio;;tester;kraków;POL;17000.0;27000.0;PLN;;1
+qa engineer;Derave Softare;;tester;lublin;POL;4000.0;7000.0;PLN;;0
+quality assurance engineer;NetorkedAssets Sp. z o.o.;;tester;zdalna;B/D;10000.0;17000.0;PLN;;0
+test automation engineer with python;System Verification;;tester;zdalna;B/D;15000.0;24000.0;PLN;;0
+qa automation tester with java - remote;Ideamotive;;tester;zdalna;B/D;18000.0;20000.0;PLN;;0
+junior tester (python);VlogIT;;tester;zdalna;B/D;10080.0;13440.0;PLN;;0
+junior test analyst;Famoc S.A.;;tester;gdańsk;POL;4300.0;6200.0;PLN;;0
+junior tester;YND Technologies;;tester;warszawa;POL;4500.0;6500.0;PLN;;0
+qa automation engineer;VOLT.io Open Banking Payments;;tester;warszawa;"POL
+ + 1";12000.0;20000.0;PLN;;0
+senior qc engineer;SoftServe;;tester;zdalna;B/D;8500.0;17000.0;PLN;;1
+junior test manual engineer;Aspire Systems Poland;;tester;gdańsk;POL;5000.0;7000.0;PLN;;0
+test automation engineer;Dunning, Kruger & Associates Sp. z o.o.;;tester;zdalna;B/D;15120.0;22680.0;PLN;;0
+quality assurance engineer;Amartus Polska Sp. z o.o.;;tester;kraków;POL;10000.0;13000.0;PLN;;0
+test automation engineer;Citi Service Center;;tester;warszawa;POL;10000.0;20000.0;PLN;;0
+remote test automation engineer;Cognitum Services SA;;tester;zdalna;B/D;15120.0;23520.0;PLN;;0
+remote qa engineer;AUTO1 Group;;tester;zdalna;B/D;8000.0;15000.0;PLN;;0
+test engineer;Sigma IT Poland;;tester;zdalna;B/D;18480.0;21000.0;PLN;;0
+remote / test automation engineer;Link Group;;tester;zdalna;B/D;16000.0;21000.0;PLN;;0
+test automation engineer;Emerson Process Management Sp. z o.o.;;tester;warszawa;POL;8000.0;11000.0;PLN;;0
+senior .net test automation engineer;Pragmile;;tester;zdalna;B/D;14000.0;25200.0;PLN;;1
+senior quality assurance engineer;IDEMIA;;tester;zdalna;B/D;15960.0;23940.0;PLN;;1
+remote qa engineer;ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;;tester;zdalna;B/D;7500.0;15000.0;PLN;;0
+qa engineer;gravity9;;tester;zdalna;B/D;16800.0;26880.0;PLN;;0
+test automation engineer;SquareOne;;tester;zdalna;B/D;18480.0;21840.0;PLN;;0
+qa tester with sql;Capco;;tester;zdalna;B/D;15120.0;24360.0;PLN;;0
+qa team leader;Coinfirm;;tester;zdalna;B/D;18000.0;25000.0;PLN;;0
+remote test automation engineer;Vazco Sp. z o.o. Sp. k.;;tester;zdalna;B/D;7500.0;12500.0;PLN;;0
+automated test engineer;TKH Technology Poland;;tester;zdalna;B/D;12000.0;15000.0;PLN;;0
+test automation engineer (regular);ProData Consult;;tester;zdalna;B/D;18480.0;23520.0;PLN;;0
+senior qa engineer;Synerise;;tester;zdalna;B/D;14000.0;22000.0;PLN;;1
+remote senior quality assurance engineer;Transition Technologies PSC Sp. z o.o;;tester;zdalna;B/D;16800.0;25200.0;PLN;;0
+qc engineer;SoftServe;;tester;zdalna;B/D;15000.0;17000.0;PLN;;0
+junior hardware/ software tester;Conclusive Engineering Sp. z o.o.;;tester;katowice;POL;5000.0;8000.0;PLN;;0
+mid test automation engineer;Acaisoft Poland Sp. z.o.o;;tester;zdalna;B/D;11000.0;18000.0;PLN;;0
+pentester / penetration test;Devire Sp. z o.o.;;tester;zdalna;B/D;11000.0;18000.0;PLN;;0
+quality assurance engineer;Grid Dynamics;;tester;zdalna;B/D;12000.0;20500.0;PLN;;0
+software engineer / ab tester;System Verification;;tester;zdalna;B/D;20000.0;30000.0;PLN;;0
+manual test engineer;MindMics.com;;tester;kraków;POL;7500.0;13000.0;PLN;;0
+software test analyst;FIS Techlology Services (Poland) Sp. z o.o.;;tester;warszawa;POL;7000.0;10000.0;PLN;;0
+lead test automation engineer;EPAM;;tester;zdalna;B/D;14000.0;20500.0;PLN;;0
+senior test automation engineer;EPAM;;tester;zdalna;B/D;11500.0;17500.0;PLN;;1
+senior qa engineer;AUTO1 Group;;tester;zdalna;B/D;15000.0;19000.0;PLN;;1
+senior quality assurance engineer;Housecall Pro;;tester;zdalna;B/D;26216.0;37139.0;PLN;;1
+automation tester - remote;Direct Communication Sp. z o.o.;;tester;zdalna;B/D;15000.0;21500.0;PLN;;0
+software test analyst;FIS Techlology Services (Poland) Sp. z o.o.;;tester;warszawa;POL;10000.0;12000.0;PLN;;0
+remote qa automation engineer;medcase Health;;tester;zdalna;B/D;7000.0;12500.0;PLN;;0
+manual test engineer;Frontkom;;tester;lublin;"POL
+ + 1";5000.0;7500.0;PLN;;0
+tester manualny;jpk-insight sp. z o.o.;;tester;zdalna;B/D;6000.0;11000.0;PLN;;0
+senior test automation developer;Omada;;tester;zdalna;B/D;18000.0;21000.0;PLN;;1
+qa engineer (test automation);FRIDAY;;tester;warszawa;POL;12000.0;20000.0;PLN;;0
+junior software tester;Andea Solutions Sp. z o.o.;;tester;kraków;POL;3500.0;7000.0;PLN;;0
+api tester;Sii Polska;;tester;zdalna;B/D;8400.0;16800.0;PLN;;0
+senior test automation engineer;TestArmy Group S.A;;tester;zdalna;B/D;15120.0;21840.0;PLN;;1
+ux and qa tester - remote;Testbirds;;tester;zdalna;B/D;15960.0;32088.0;PLN;;0
+test automation engineer (java or .net);Link Group;;tester;warszawa;"POL
+ + 1";8000.0;15000.0;PLN;;0
+manual tester;Link Group;;tester;zdalna;B/D;7000.0;14000.0;PLN;;0
+test automation engineer python;Sysnet Global Solutions;;tester;zdalna;B/D;12000.0;19000.0;PLN;;0
+test engineer;Ringier Axel Springer Tech;;tester;zdalna;B/D;10000.0;14500.0;PLN;;0
+senior test automation engineer;Ringier Axel Springer Tech;;tester;zdalna;B/D;13000.0;21000.0;PLN;;1
+🔥 senior / regular qa engineer;Northmill Bank AB;;tester;zdalna;B/D;12000.0;19000.0;PLN;;0
+test automation engineer;TestArmy Group S.A;;tester;zdalna;B/D;10080.0;15120.0;PLN;;0
+remote mid test automation engineer;Aspire Systems Poland;;tester;zdalna;B/D;12000.0;16800.0;PLN;;0
+manual quality assurance engineer;Infermedica Sp z.o.o;;tester;zdalna;B/D;9000.0;12000.0;PLN;;0
+remote manual test engineer;OpsTalent;;tester;zdalna;B/D;5000.0;9500.0;PLN;;0
+senior test automation engineer;OpsTalent;;tester;wrocław;POL;14000.0;18000.0;PLN;;1
+quality assurance engineer;Amsterdam Standard Sp. z o.o.;;tester;wrocław;"POL
+ + 3";12000.0;18000.0;PLN;;0
+test engineer;CTM;;tester;gdynia;POL;5000.0;7000.0;PLN;;0
